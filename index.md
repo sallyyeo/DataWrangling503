@@ -18,5 +18,5 @@ This repository contains my submission for the End-of-Course Assignment (ECA) fo
 ## Project Structure
 
 - **`503eca_1a.py`**: Python script for extracting dialogue components from the `.vtt` file and storing the data in a MySQL table.
-- **`q1b.sql`**: SQL script that creates a new table with dialogue duration in milliseconds and performs data transformations.
+- **`503eca_1b.sql`**: SQL script that creates a new table with dialogue duration in milliseconds and performs data transformations.
 - **`503eca_1c.R`**: R script that reads data from MySQL, filters it, and generates a barchart showing student participation airtime.

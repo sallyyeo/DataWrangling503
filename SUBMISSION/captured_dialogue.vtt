@@ -1,0 +1,5322 @@
+WEBVTT
+
+1
+00:01:45.690 --> 00:01:46.260
+INSTRUCTOR: hey.
+
+2
+00:01:47.550 --> 00:01:50.430
+INSTRUCTOR: Everyone knows the drill sitting on the cameras okay very good.
+
+3
+00:01:51.930 --> 00:01:52.980
+INSTRUCTOR: Okay.
+
+4
+00:02:04.830 --> 00:02:07.500
+INSTRUCTOR: Okay we're going to take the picture.
+
+5
+00:02:12.360 --> 00:02:14.280
+INSTRUCTOR: Yes, checking so okay.
+
+6
+00:02:15.600 --> 00:02:20.310
+INSTRUCTOR: Okay, everyone make sure you're in the frame you want to treat smile.
+
+7
+00:02:24.930 --> 00:02:29.700
+INSTRUCTOR: He take one more for good measure okay okay Ryan to treat smile.
+
+8
+00:02:35.130 --> 00:02:36.360
+INSTRUCTOR: Okay, very good.
+
+9
+00:02:37.590 --> 00:02:38.340
+INSTRUCTOR: Thank you.
+
+10
+00:02:42.300 --> 00:02:42.990
+screen share.
+
+11
+00:02:56.280 --> 00:02:56.820
+INSTRUCTOR: Okay.
+
+12
+00:02:58.530 --> 00:02:59.370
+INSTRUCTOR: So.
+
+13
+00:03:01.290 --> 00:03:02.190
+INSTRUCTOR: show of hands.
+
+14
+00:03:04.350 --> 00:03:12.000
+INSTRUCTOR: Who has if you successfully important your tables piece yeah do a thumbs up or something.
+
+15
+00:03:26.310 --> 00:03:26.820
+INSTRUCTOR: OK.
+
+16
+00:03:31.440 --> 00:03:34.590
+INSTRUCTOR: OK, so you can play along.
+
+17
+00:03:35.940 --> 00:03:40.350
+INSTRUCTOR: Show you I mean a bit as we go through today's lesson.
+
+18
+00:03:49.110 --> 00:03:49.770
+Okay.
+
+19
+00:03:53.130 --> 00:03:54.630
+INSTRUCTOR: blah blah blah okay.
+
+20
+00:03:57.450 --> 00:04:01.170
+INSTRUCTOR: Student at demos so they're supposed to be six people today.
+
+21
+00:04:02.880 --> 00:04:03.330
+INSTRUCTOR: If.
+
+22
+00:04:06.870 --> 00:04:18.390
+INSTRUCTOR: anyone's here if you're on the list, and you are not prepared, we can push you to the following week, if you are prepared, like to present, please.
+
+23
+00:04:19.410 --> 00:04:22.290
+INSTRUCTOR: Let me know and i'll give you my screen sharing rights.
+
+24
+00:04:24.660 --> 00:04:26.100
+INSTRUCTOR: Okay, show me, are you ready.
+
+25
+00:04:26.730 --> 00:04:27.840
+STUDENT 01: yeah I can sorry.
+
+26
+00:04:28.440 --> 00:04:30.630
+INSTRUCTOR: Okay right you don't sorry enthusiastic.
+
+27
+00:04:32.640 --> 00:04:33.000
+STUDENT 01: morning.
+
+28
+00:04:35.370 --> 00:04:38.160
+INSTRUCTOR: Okay, hang on, let me figure out how to the screen sharing thing.
+
+29
+00:04:49.980 --> 00:04:50.970
+INSTRUCTOR: Stop my share.
+
+30
+00:05:02.370 --> 00:05:03.060
+INSTRUCTOR: Okay, you have to.
+
+31
+00:05:05.490 --> 00:05:08.100
+STUDENT 01: Give me a second, I have to allow my computer.
+
+32
+00:05:09.630 --> 00:05:10.080
+INSTRUCTOR: Yes.
+
+33
+00:05:10.680 --> 00:05:11.790
+STUDENT 01: Share screen.
+
+34
+00:05:26.550 --> 00:05:27.330
+STUDENT 01: Sorry, you mean.
+
+35
+00:05:28.740 --> 00:05:29.580
+STUDENT 01: Give me five seconds.
+
+36
+00:05:52.080 --> 00:05:55.200
+STUDENT 01: Sorry, my MIC settings I need to restart so i'm in La megan.
+
+37
+00:05:59.280 --> 00:05:59.670
+STUDENT 01: else.
+
+38
+00:06:00.120 --> 00:06:01.050
+INSTRUCTOR: Can someone else.
+
+39
+00:06:07.230 --> 00:06:08.070
+STUDENT 02: I can stop.
+
+40
+00:06:08.250 --> 00:06:10.890
+INSTRUCTOR: Okay, very good, very good give you.
+
+41
+00:06:36.330 --> 00:06:36.900
+STUDENT 02: My screen.
+
+42
+00:06:40.290 --> 00:06:43.020
+STUDENT 02: yeah so the commanded are you.
+
+43
+00:06:44.310 --> 00:06:45.630
+STUDENT 02: can hear me.
+
+44
+00:06:47.550 --> 00:06:52.470
+STUDENT 02: yeah so the commanded, I would like to share is a very simple one.
+
+45
+00:06:54.990 --> 00:06:58.230
+STUDENT 02: very quick disclaimer i'm not sure where the.
+
+46
+00:07:00.060 --> 00:07:12.570
+STUDENT 02: So this command that i'm about to share will be covered in future lessons, but I hope i'm having broken the rules that I only sharing what i've been covered so far so yeah the comedy I like to share today is.
+
+47
+00:07:13.740 --> 00:07:18.210
+STUDENT 02: The key, the key word distinct policy that common so.
+
+48
+00:07:20.160 --> 00:07:29.610
+STUDENT 02: As we all know and select is used to to to to gather on to retrieve values but oftentimes we own we encounter a situation where.
+
+49
+00:07:31.350 --> 00:07:49.110
+STUDENT 02: Values get it from particular call they have a lot of repeated values so distinct allows us to return own unique values from one or more columns and, as can be seen from the second bullet calling the syntax goes like this select this thing the column name from table name.
+
+50
+00:07:50.280 --> 00:08:01.680
+STUDENT 02: And next slide yeah, so I will be using the I just use a very random table from the DEMO data set and we'll go from the teaser and.
+
+51
+00:08:03.000 --> 00:08:04.710
+STUDENT 02: i'm using a typical survey table.
+
+52
+00:08:05.940 --> 00:08:12.540
+STUDENT 02: yeah I have a screenshot here but also show you how we lose by in that table plussing in a minute so.
+
+53
+00:08:14.280 --> 00:08:21.720
+STUDENT 02: yeah you can see my table plus yes, so this is the six years of a.
+
+54
+00:08:22.800 --> 00:08:24.570
+STUDENT 02: table okay.
+
+55
+00:08:25.620 --> 00:08:35.670
+STUDENT 02: We will be focusing on this column called H for this DEMO you can see, there are a lot of different values in each column.
+
+56
+00:08:37.800 --> 00:08:48.930
+STUDENT 02: I can do a very quick command select commands like age from six years to be and I ran it, I see a lot of different values, so they are taught ios.
+
+57
+00:08:48.960 --> 00:08:51.390
+STUDENT 02: 7687 rows.
+
+58
+00:08:51.630 --> 00:09:11.310
+STUDENT 02: means Ellis there will be 736 97 value so you just at a quick glance you see as a default on a tree yeah there's a repeatable right right So how do we get the unique range of ages so very simple you just type select this think age from six year survey, we ran again.
+
+59
+00:09:12.780 --> 00:09:22.380
+STUDENT 02: yeah So there we go 67 so we know that they're actually 67 unique ages collected from the survey from the H column.
+
+60
+00:09:24.900 --> 00:09:28.290
+STUDENT 02: I think that's basically what i'm trying to share.
+
+61
+00:09:29.550 --> 00:09:32.370
+STUDENT 02: I have another screenshot here to show what I just.
+
+62
+00:09:33.540 --> 00:09:36.930
+STUDENT 02: I hope this helps me and not too simple for one.
+
+63
+00:09:37.800 --> 00:09:38.670
+INSTRUCTOR: I think is good.
+
+64
+00:09:39.270 --> 00:09:41.220
+INSTRUCTOR: Thank you, thank you, thanks.
+
+65
+00:09:45.960 --> 00:09:46.260
+STUDENT 02: OK.
+
+66
+00:09:50.700 --> 00:09:51.300
+INSTRUCTOR: OK.
+
+67
+00:10:06.150 --> 00:10:07.500
+INSTRUCTOR: Are you still co hosts.
+
+68
+00:10:16.470 --> 00:10:21.270
+STUDENT 01: So I don't Have a nice presentation share, but I have.
+
+69
+00:10:22.890 --> 00:10:41.580
+STUDENT 01: My table view up just like to kind of talk you through so the one that I picked is create view because part of my struggle with sequel is trying to understand it from a practical practical like epic scalability applicable standpoint versus just like a data.
+
+70
+00:10:42.690 --> 00:10:51.690
+STUDENT 01: tool because that's kind of how I was thinking about in terms of work, so I came across the create view um syntax which is.
+
+71
+00:10:52.560 --> 00:11:01.950
+STUDENT 01: Which is kind of like that help answer questions because so when you want to show data to, for example, client you don't want them to see the entire database because there might be a lot of.
+
+72
+00:11:02.280 --> 00:11:12.570
+STUDENT 01: privilege or sensitive information on it, so creating view is almost like trading interface for the tables, so it can be thought of like a store query.
+
+73
+00:11:13.110 --> 00:11:23.190
+STUDENT 01: and abuse and saved in the database server so we don't have to copy them over from some other file and creating the view allows like different kind of users to interact with the table so, for example.
+
+74
+00:11:23.940 --> 00:11:33.690
+STUDENT 01: someone like me who's not very familiar with sequel and I can just use the view to just kind of see very basic data or, if you have like a very noisy client, you can prevent them from seeing.
+
+75
+00:11:34.560 --> 00:11:43.590
+STUDENT 01: Things they're not supposed to be seeing or, if you have impatient users, they don't need to see like the if it's a very long, complicated query you can hide that from them and they just see a.
+
+76
+00:11:43.590 --> 00:11:44.370
+STUDENT 01: very basic.
+
+77
+00:11:44.940 --> 00:11:54.900
+STUDENT 01: table basically and yeah so they're sensitive a private information that not everyone has a lot excellent students with things like credit card numbers, or NIC numbers or contact information.
+
+78
+00:11:56.400 --> 00:12:06.150
+STUDENT 01: And you can pull data from multiple tables using inner join so there's a lot of different it's not very limited it's helpful in terms from.
+
+79
+00:12:07.320 --> 00:12:19.440
+STUDENT 01: Working with our showing data to other people um one of the other benefits, you can create views that include aggregated data for the end users and that's something else that's very interesting so.
+
+80
+00:12:20.220 --> 00:12:25.530
+STUDENT 01: When I was playing around with this only I used us DEMO data we had from last week so.
+
+81
+00:12:25.920 --> 00:12:35.730
+STUDENT 01: For example, a in this example I pretended like I didn't know I had a client who was interested in selling TV product, so what would be the data they'd be interested in, so I kind of picked a few.
+
+82
+00:12:36.240 --> 00:12:42.270
+STUDENT 01: Are they married what kind of income they have working not working, what kind of residential status they had so.
+
+83
+00:12:42.840 --> 00:12:54.150
+STUDENT 01: Within so the way you'd write it is create your view name and then you would select the different variables that you want included in and i've just kind of renamed them in the thought process off if I were.
+
+84
+00:12:54.540 --> 00:13:02.040
+STUDENT 01: Giving this to a client would I want them to type like the variable name, as it is, I want to give them something that's more understandable from their point like.
+
+85
+00:13:02.670 --> 00:13:16.950
+STUDENT 01: If I assume they're as not as knowledgeable as me so and then you would select the source and I came across this with track options, so this comes in handy later if someone wants to add data to the table it's there to.
+
+86
+00:13:17.430 --> 00:13:24.870
+STUDENT 01: Make sure that you've got all the right information, so we would run that and then that would create the table.
+
+87
+00:13:25.320 --> 00:13:33.630
+STUDENT 01: And then, when you want to do your select so the select statement is kind of where the user interface pumps and so now like this is the client side of it, they want to see.
+
+88
+00:13:34.200 --> 00:13:41.760
+STUDENT 01: This information, whereas resident status equals two so they can run that and then they can see the data.
+
+89
+00:13:42.480 --> 00:13:52.980
+STUDENT 01: The thing that's also really good about creating views is they don't just it's not just like a static view of the table, if they want to update the data they're also able to do that, so they can add in a row.
+
+90
+00:13:53.730 --> 00:14:02.850
+STUDENT 01: Just like inserting value into the view name and what are the column names are inserting the data into and what's the data itself.
+
+91
+00:14:04.500 --> 00:14:19.290
+STUDENT 01: And they can run that and if they go back and run their select from, and you can see a row, has been edited so that's kind of what I did, and then it's very simple to drop the view it's just dropped the view so yeah so that's what I picked.
+
+92
+00:14:24.090 --> 00:14:26.940
+INSTRUCTOR: Thank you, sorry if i'm fixing my mouth.
+
+93
+00:14:27.000 --> 00:14:28.200
+INSTRUCTOR: But thank you.
+
+94
+00:14:28.590 --> 00:14:30.000
+INSTRUCTOR: Very good i'm.
+
+95
+00:14:33.540 --> 00:14:34.410
+INSTRUCTOR: Is retold here.
+
+96
+00:14:37.230 --> 00:14:39.570
+STUDENT 03: hello, yes i'm.
+
+97
+00:14:40.980 --> 00:14:44.550
+INSTRUCTOR: gonna go Okay, let me give you my screen.
+
+98
+00:15:28.110 --> 00:15:28.890
+STUDENT 03: See the screen now.
+
+99
+00:15:29.610 --> 00:15:31.500
+INSTRUCTOR: Yes, yes okay.
+
+100
+00:15:32.130 --> 00:15:35.490
+STUDENT 03: So what i'd like to share today is actually.
+
+101
+00:15:35.880 --> 00:15:40.200
+STUDENT 03: How to do a so called pivot function.
+
+102
+00:15:41.580 --> 00:15:53.730
+STUDENT 03: In using sql although unless they are trying to find out why am I really looking for such kind of function is because in Microsoft what usually I when I do with.
+
+103
+00:15:55.080 --> 00:16:09.090
+STUDENT 03: Data usually I use the X the pivot table in the excel pretty awful, and so this is also something that I would like to find weather is there such kind of function, a vote to see.
+
+104
+00:16:10.560 --> 00:16:13.050
+STUDENT 03: To use in the sql.
+
+105
+00:16:14.220 --> 00:16:14.790
+STUDENT 03: So.
+
+106
+00:16:16.920 --> 00:16:17.700
+STUDENT 03: I can shift.
+
+107
+00:16:21.570 --> 00:16:28.140
+STUDENT 03: So i'm not too sure if you can see the screen is there anything blocking is at the moment.
+
+108
+00:16:29.340 --> 00:16:33.300
+INSTRUCTOR: I think all your zoom stuff is a scattered around the screen.
+
+109
+00:16:33.330 --> 00:16:33.630
+yeah.
+
+110
+00:16:34.860 --> 00:16:35.700
+STUDENT 03: i'm not sure how.
+
+111
+00:16:40.440 --> 00:16:42.480
+INSTRUCTOR: Okay, that thing when we.
+
+112
+00:16:44.460 --> 00:16:46.080
+STUDENT 03: do not know how to shift.
+
+113
+00:16:48.030 --> 00:16:49.740
+INSTRUCTOR: Okay mini movie.
+
+114
+00:16:59.040 --> 00:17:00.930
+INSTRUCTOR: Maybe I don't maximize the screen can.
+
+115
+00:17:01.470 --> 00:17:07.620
+STUDENT 04: You track those molly toby, no one can you just present who in.
+
+116
+00:17:09.240 --> 00:17:11.070
+STUDENT 04: The whole Bosch of evolution.
+
+117
+00:17:15.870 --> 00:17:18.600
+STUDENT 03: Anyway, so maybe that means us try to.
+
+118
+00:17:19.770 --> 00:17:25.230
+INSTRUCTOR: agree the other creaminess and then a drug overdose smaller Oh, this is even when.
+
+119
+00:17:26.850 --> 00:17:28.350
+STUDENT 03: i'm sorry just give me.
+
+120
+00:17:30.750 --> 00:17:33.570
+STUDENT 01: One of you move your class to a new desktop.
+
+121
+00:17:33.720 --> 00:17:34.170
+With.
+
+122
+00:17:36.660 --> 00:17:37.350
+STUDENT 03: Oh okay.
+
+123
+00:17:38.970 --> 00:17:40.170
+STUDENT 03: Can you see it now the screen.
+
+124
+00:17:40.950 --> 00:17:41.940
+INSTRUCTOR: Here we can see, you can see.
+
+125
+00:17:42.720 --> 00:17:49.680
+STUDENT 03: me I just continually that I saw else mentioning that, because in my costs of what I usually use a pivot function.
+
+126
+00:17:50.340 --> 00:18:03.840
+STUDENT 03: In excel, so I would like to see whether there is such kind of capability on sql so what I have done is I have used one of datasets phone on the l COs page, which is the enrollment.
+
+127
+00:18:05.910 --> 00:18:06.810
+STUDENT 03: P one.
+
+128
+00:18:08.550 --> 00:18:10.230
+STUDENT 03: So this is the one.
+
+129
+00:18:11.970 --> 00:18:15.330
+STUDENT 03: Which 1am I having something problem too.
+
+130
+00:18:23.700 --> 00:18:26.730
+STUDENT 03: Okay, just give me I see whether I kid.
+
+131
+00:18:39.000 --> 00:18:39.720
+STUDENT 03: i'm sorry.
+
+132
+00:18:46.650 --> 00:18:48.360
+INSTRUCTOR: Everything you're doing is there right click.
+
+133
+00:18:50.130 --> 00:18:52.920
+STUDENT 03: Maybe, let me share my screen for.
+
+134
+00:18:54.060 --> 00:18:54.330
+INSTRUCTOR: sure.
+
+135
+00:19:15.360 --> 00:19:17.550
+INSTRUCTOR: You stop share, but then we can still see your screen.
+
+136
+00:19:26.610 --> 00:19:27.870
+STUDENT 03: there's no stop share function.
+
+137
+00:19:28.890 --> 00:19:29.340
+STUDENT 03: Sorry.
+
+138
+00:19:36.780 --> 00:19:39.000
+STUDENT 03: y'all can still see my screen now.
+
+139
+00:19:39.180 --> 00:19:39.990
+INSTRUCTOR: yep yeah.
+
+140
+00:19:41.160 --> 00:19:42.360
+STUDENT 03: Okay, and we just.
+
+141
+00:19:43.920 --> 00:19:45.810
+STUDENT 03: Continue continue that.
+
+142
+00:19:48.150 --> 00:19:48.720
+STUDENT 03: you're.
+
+143
+00:19:51.450 --> 00:19:54.390
+STUDENT 03: The functions are not working, when i'm trying to.
+
+144
+00:20:29.370 --> 00:20:31.830
+INSTRUCTOR: Your left your left click has become a right click.
+
+145
+00:20:40.530 --> 00:20:41.370
+STUDENT 03: Why can't stop share.
+
+146
+00:20:42.960 --> 00:20:44.550
+STUDENT 03: Maybe, can I go and come back again.
+
+147
+00:20:44.820 --> 00:20:45.630
+yeah okay.
+
+148
+00:20:53.460 --> 00:20:55.440
+INSTRUCTOR: Maybe I should we, you know office.
+
+149
+00:20:57.390 --> 00:21:07.140
+STUDENT 05: yeah yes so also, I do have PowerPoint slides online Skype so i'll just go first in case I don't come back in time after the cheaper.
+
+150
+00:21:08.490 --> 00:21:10.320
+STUDENT 05: to share screen.
+
+151
+00:21:13.920 --> 00:21:15.930
+STUDENT 05: Can you see my screen.
+
+152
+00:21:18.180 --> 00:21:19.080
+INSTRUCTOR: Yes.
+
+153
+00:21:19.110 --> 00:21:35.430
+STUDENT 05: Yes, yeah so today i'll be sharing our on this function, I thought will be quite useful for for me my will also be interesting, and because I totally don't have a background So those are bigger might buy quite simple.
+
+154
+00:21:36.720 --> 00:21:38.010
+STUDENT 05: For me, is like wow yeah.
+
+155
+00:21:39.270 --> 00:21:46.680
+STUDENT 05: So the functionality sharing is our Union, where we actually combine the results are off to a mockery slack using this Union.
+
+156
+00:21:47.190 --> 00:21:57.150
+STUDENT 05: And so, so when I was reading up on this function, I know that there was there is some basic rule to follow like first, the number and the order of the color must appear.
+
+157
+00:21:58.710 --> 00:22:07.080
+STUDENT 05: appear in the select statement must be the same, and then the data of the columns is almost the same are compatible so actually i'm.
+
+158
+00:22:07.830 --> 00:22:28.320
+STUDENT 05: Just nice use the data that we're going to use today right, so I pick it up, you will be, you can see there's an rfc imbalance and our city our project Citibank and RCM better so actually I tried to Union them, so I select both that data from ub n Citibank and then we just run this.
+
+159
+00:22:29.730 --> 00:22:31.110
+STUDENT 05: And then you will actually.
+
+160
+00:22:32.610 --> 00:22:34.590
+STUDENT 05: combine all the data together.
+
+161
+00:22:36.600 --> 00:22:44.070
+STUDENT 05: I thought I would just show, something that will not work so just now, I mentioned that if you don't have the same call them right so.
+
+162
+00:22:45.450 --> 00:22:45.960
+STUDENT 05: Because.
+
+163
+00:22:48.000 --> 00:23:00.240
+STUDENT 05: i'll pick the soul now before another one, so instead of CT them just cross it off, and I will you be so you can see you, yes, there is like to earn it now, so if I were to do these are it's not going to work.
+
+164
+00:23:02.100 --> 00:23:13.740
+STUDENT 05: That you will see something so are in, then, when I was like trying to function, then I know that if you were to change these like, for example, just people just an ice to.
+
+165
+00:23:18.270 --> 00:23:26.190
+STUDENT 05: And because it's the same data type of so we actually what three ways you combine everything so yeah so that's my short DEMO.
+
+166
+00:23:27.750 --> 00:23:28.140
+INSTRUCTOR: Thank you.
+
+167
+00:23:28.680 --> 00:23:30.360
+Okay yeah Thank you.
+
+168
+00:23:42.450 --> 00:23:42.810
+INSTRUCTOR: Rachel.
+
+169
+00:23:43.950 --> 00:23:46.680
+STUDENT 03: Yes, sorry i'm back, I think I found out what happened just.
+
+170
+00:23:47.670 --> 00:23:48.270
+Okay.
+
+171
+00:23:50.220 --> 00:23:50.880
+INSTRUCTOR: So.
+
+172
+00:23:54.390 --> 00:23:54.750
+Okay.
+
+173
+00:24:02.250 --> 00:24:03.510
+INSTRUCTOR: yeah so we can see your screen.
+
+174
+00:24:12.630 --> 00:24:13.380
+STUDENT 03: Okay, so.
+
+175
+00:24:15.300 --> 00:24:20.580
+STUDENT 03: While, on the show is something that pivot function so way of using the enrollment P one.
+
+176
+00:24:21.600 --> 00:24:24.210
+STUDENT 03: P bass at this available on the.
+
+177
+00:24:26.370 --> 00:24:38.310
+STUDENT 03: one page, so this is how it looks like So if you can see the columns here have three different data types one this year, the agenda and the number of enrollment.
+
+178
+00:24:39.210 --> 00:24:51.990
+STUDENT 03: Of premier once a year, so in each row is a serious, it does that by an F, I think this is the total cohort for premier one enrollment and F is the number of females that.
+
+179
+00:24:52.500 --> 00:24:53.820
+STUDENT 03: Was enrolled in the year.
+
+180
+00:24:53.850 --> 00:24:54.210
+So.
+
+181
+00:24:55.560 --> 00:25:08.340
+STUDENT 03: Because there is the years are in two different roles, so I would like to actually up to, but the gender into two new columns and have the enrollment segregate that into.
+
+182
+00:25:09.780 --> 00:25:11.790
+STUDENT 03: Female and photo or number of.
+
+183
+00:25:12.930 --> 00:25:16.020
+STUDENT 03: enrollments in that year, so what they have done is.
+
+184
+00:25:17.250 --> 00:25:24.180
+STUDENT 03: Firstly, I have selected how I want to show the people S, year by year.
+
+185
+00:25:25.290 --> 00:25:28.950
+STUDENT 03: female and male so our in this in this.
+
+186
+00:25:30.330 --> 00:25:48.450
+STUDENT 03: line here, I will create a new column mail, which is taking total minus female so, but this is a step that I think last week of my perception shift to this is a mess, but kind of condition so to have this.
+
+187
+00:25:49.500 --> 00:25:59.040
+STUDENT 03: What I have to first make sure that I define what is female and total, so this is where I do the pivot after data in the agenda.
+
+188
+00:26:00.150 --> 00:26:02.430
+STUDENT 03: In this role in this second column.
+
+189
+00:26:03.600 --> 00:26:10.650
+STUDENT 03: Where I have used the case when function, because I tried to find out there isn't a pivot function in.
+
+190
+00:26:11.700 --> 00:26:23.370
+STUDENT 03: command in sql, so I think this is a alternative that we can use as how to pivot the data into a new column, so I use the case when function.
+
+191
+00:26:24.000 --> 00:26:39.960
+STUDENT 03: Where I was some up a case where X is equal to F, then the enrollment they will pick up the data in the enrollment probably one column else it will be a malfunction so this will be for the condition when it's.
+
+192
+00:26:41.160 --> 00:26:54.420
+STUDENT 03: Female and this second right it's also when the total so and where this data comes from is from the enrollment fee one table which I showed earlier, and to do this also will have the group the.
+
+193
+00:26:55.470 --> 00:27:18.240
+STUDENT 03: The year so that it will show in each individual for the year so in because this is the first step for the creative people at the back there after creating this new data, then it can run a pickup don't create the new columns as this line here.
+
+194
+00:27:19.380 --> 00:27:23.670
+STUDENT 03: I also have to create penaflorida new table new.
+
+195
+00:27:25.260 --> 00:27:27.690
+STUDENT 03: As a new table so that you will show up.
+
+196
+00:27:29.010 --> 00:27:29.760
+STUDENT 03: In this format.
+
+197
+00:27:33.120 --> 00:27:40.050
+STUDENT 03: So this is how I can so call give us this data into a new format in this way.
+
+198
+00:27:41.640 --> 00:27:43.860
+STUDENT 03: So that's what I would like to share today.
+
+199
+00:27:44.790 --> 00:27:45.990
+INSTRUCTOR: Very cool Thank you.
+
+200
+00:28:15.600 --> 00:28:16.020
+INSTRUCTOR: Okay.
+
+201
+00:28:19.830 --> 00:28:36.780
+INSTRUCTOR: So actually country for two more after the break unless the to hear want to do it now that's fine also let me know so in the meantime, let me just pick up on a couple of things which are your classmates mention it, so the first one.
+
+202
+00:28:40.890 --> 00:28:41.850
+Is.
+
+203
+00:28:44.400 --> 00:28:45.270
+INSTRUCTOR: i'm.
+
+204
+00:28:47.940 --> 00:28:50.070
+STUDENT 02: like this is from 60 years serving.
+
+205
+00:28:50.250 --> 00:28:51.660
+INSTRUCTOR: tables excessively.
+
+206
+00:28:51.840 --> 00:28:53.670
+INSTRUCTOR: yeah yeah i've been added here.
+
+207
+00:28:55.740 --> 00:28:56.160
+INSTRUCTOR: Let me.
+
+208
+00:28:58.260 --> 00:28:59.610
+Go to.
+
+209
+00:29:01.320 --> 00:29:02.010
+file.
+
+210
+00:29:21.510 --> 00:29:21.960
+INSTRUCTOR: Okay.
+
+211
+00:29:25.110 --> 00:29:27.420
+INSTRUCTOR: So we said 67 rules right.
+
+212
+00:29:29.460 --> 00:29:29.880
+STUDENT 02: Yes.
+
+213
+00:29:31.800 --> 00:29:32.790
+INSTRUCTOR: So, depending on.
+
+214
+00:29:38.070 --> 00:29:44.490
+INSTRUCTOR: Depending on okay it's Okay, I want to show you a trick.
+
+215
+00:29:45.630 --> 00:29:50.820
+INSTRUCTOR: So if you're an order, then you just do order by okay.
+
+216
+00:29:54.150 --> 00:30:00.390
+INSTRUCTOR: Then, then it's presented in descending order right so last week we knew that.
+
+217
+00:30:02.070 --> 00:30:03.240
+INSTRUCTOR: Think Jacqueline brought it up.
+
+218
+00:30:04.380 --> 00:30:10.230
+INSTRUCTOR: You and descending order, then you have the dsc command right and everything is set up.
+
+219
+00:30:12.120 --> 00:30:15.000
+INSTRUCTOR: If he happens to be text.
+
+220
+00:30:16.140 --> 00:30:20.910
+INSTRUCTOR: Right so there's there's a quick fix for that so.
+
+221
+00:30:22.530 --> 00:30:26.940
+INSTRUCTOR: I don't have a text but imagine if each word text and then.
+
+222
+00:30:28.170 --> 00:30:32.700
+INSTRUCTOR: You wanted to order it then you just do plus zero.
+
+223
+00:30:34.410 --> 00:30:49.470
+INSTRUCTOR: Then this thing itself on the fly or convert your text each into numeric and then the ordering look yeah so that's one trick lot, but in this case it doesn't make a difference because it's already numeric type.
+
+224
+00:30:51.090 --> 00:30:56.520
+INSTRUCTOR: get anything I want to show which is similar to what Rachel just mentioned.
+
+225
+00:30:58.950 --> 00:31:01.500
+INSTRUCTOR: Is you can combine this with a group by.
+
+226
+00:31:07.530 --> 00:31:09.090
+INSTRUCTOR: So you are selecting.
+
+227
+00:31:14.370 --> 00:31:15.150
+INSTRUCTOR: ish.
+
+228
+00:31:17.520 --> 00:31:20.250
+INSTRUCTOR: And then that's a star.
+
+229
+00:31:25.710 --> 00:31:29.070
+INSTRUCTOR: So this gives you kind of like a text histogram.
+
+230
+00:31:30.750 --> 00:31:38.100
+INSTRUCTOR: Okay, of the different ages Okay, and then, of course, you know costumer will be better if we.
+
+231
+00:31:42.870 --> 00:31:55.200
+INSTRUCTOR: So, so what this is is that the 884 rules where each values at the hundred 66 rows each release 19 so so far right, so you can see her up like a histogram of.
+
+232
+00:31:56.520 --> 00:31:59.280
+INSTRUCTOR: Well, can I, to be strict about chat.
+
+233
+00:32:00.390 --> 00:32:09.810
+INSTRUCTOR: For the different age ranges that so it can see like either high energy at for the only 7 billion people so forth okay so so.
+
+234
+00:32:14.220 --> 00:32:14.640
+INSTRUCTOR: So.
+
+235
+00:32:15.870 --> 00:32:28.680
+INSTRUCTOR: distinct essentially distinct will throw away all the duplicates when you buy it groups by distinct values of what of the grouping column.
+
+236
+00:32:29.280 --> 00:32:50.130
+INSTRUCTOR: So it's similar in that sense, but it also allows you to accumulate other things that are like other metrics that are associated with each group so once again each group is a unique value of your grouping column or columns you can group by combinations of columns as well yeah.
+
+237
+00:32:51.300 --> 00:33:10.290
+INSTRUCTOR: So imagine if you, you know sales director, then you can buy salesperson or you know you can group by region or I can group by salesperson with format right depending on sales format so many different things, you can do to see to try to tease apart people's performance yeah.
+
+238
+00:33:14.100 --> 00:33:24.330
+INSTRUCTOR: Okay, so I wanted to bring this up and show the connection between at least the similarities and differences between distinct and goodbye okay so let's start the lesson.
+
+239
+00:33:28.380 --> 00:33:28.710
+Okay.
+
+240
+00:33:29.910 --> 00:33:31.410
+INSTRUCTOR: Okay, so you're covered.
+
+241
+00:33:32.820 --> 00:33:47.580
+INSTRUCTOR: unions joins group by right and there's a section in the back of this deck which i'll share data that shows you essential information that you might need to know might be good to know about data types and functions.
+
+242
+00:33:50.430 --> 00:33:54.360
+INSTRUCTOR: So select statement, so if you read the documentation.
+
+243
+00:33:55.680 --> 00:34:00.780
+INSTRUCTOR: For like, for my sql you'll see something like this, so.
+
+244
+00:34:02.340 --> 00:34:05.610
+INSTRUCTOR: So all programming languages have a grammar.
+
+245
+00:34:06.960 --> 00:34:20.430
+INSTRUCTOR: yeah grammatical rules for every programming language and essentially what what the documentation that you read for any programming language tries to do is try to explain.
+
+246
+00:34:20.880 --> 00:34:34.530
+INSTRUCTOR: and remove any ambiguity about how you use this in text you know how do you express yourself in that language yeah so because all programming languages, need to be interpreted by a computer.
+
+247
+00:34:36.690 --> 00:34:40.590
+INSTRUCTOR: There is a there's no room for ambiguity.
+
+248
+00:34:41.640 --> 00:34:48.210
+INSTRUCTOR: Like English in English or in spoken languages there's always some room for ambiguity and that's where humor shows up.
+
+249
+00:34:49.830 --> 00:34:50.670
+INSTRUCTOR: So.
+
+250
+00:34:52.380 --> 00:34:58.530
+INSTRUCTOR: Let me try to so the square brackets you see here optional things yeah.
+
+251
+00:34:59.640 --> 00:35:06.600
+INSTRUCTOR: If you see a square bracket at a comma dot dot dot like the ellipses in the square brackets, that means the previous.
+
+252
+00:35:08.190 --> 00:35:15.660
+INSTRUCTOR: token, the previous expression can be repeated multiple times, but you need a comma, and so in this case.
+
+253
+00:35:17.400 --> 00:35:26.730
+INSTRUCTOR: You can think of these as columns law So the first thing is you select the columns you want right, so this column one, then, if you add more than one column, then you always separate them with a comma.
+
+254
+00:35:29.640 --> 00:35:39.540
+INSTRUCTOR: So same thing here group, by then, you see there's a comma and three dots yeah so ascending descending the pipe symbol, the vertical line.
+
+255
+00:35:40.680 --> 00:35:41.160
+INSTRUCTOR: Was it.
+
+256
+00:35:43.200 --> 00:35:58.680
+INSTRUCTOR: was going to give you a keyboard position, but I think it's different for different keywords the vertical line is our logical so that means you can see, you can include ascending or descending but you cannot have both right.
+
+257
+00:36:04.260 --> 00:36:08.040
+INSTRUCTOR: Okay, so, so let me try to explain this.
+
+258
+00:36:10.080 --> 00:36:22.530
+INSTRUCTOR: In something more understandable, so you can think of this basic structure but select query as you want to select the columns that you want to appear in your results table from one or more data sources.
+
+259
+00:36:24.180 --> 00:36:31.530
+INSTRUCTOR: were so this is a rotor tiller where some real conditions are true, so you only show those rules sorry, so this is a.
+
+260
+00:36:32.580 --> 00:36:38.910
+INSTRUCTOR: row filter grouping by one or more columns if you want to use a goodbye yeah.
+
+261
+00:36:40.140 --> 00:36:50.190
+INSTRUCTOR: Having so having is a rule filter that is a pipe after the grouping function runs and that.
+
+262
+00:36:51.570 --> 00:36:58.140
+INSTRUCTOR: So yeah so imagine you have goodbye right, so this right will give you a result stable.
+
+263
+00:36:59.580 --> 00:37:13.290
+INSTRUCTOR: If you have having What it does is that that results table the first four rows of commands it will then do a roll filter on the results people based on why value you specify here.
+
+264
+00:37:16.680 --> 00:37:34.140
+INSTRUCTOR: order by so how you want to order the rules, the presentation of yours right limit so let's say you're only interested in the top 10 or the bottom 10, then you can specify that limit so imagine if I wanted.
+
+265
+00:37:35.610 --> 00:37:36.540
+INSTRUCTOR: A simple thing to do.
+
+266
+00:37:39.060 --> 00:37:46.950
+INSTRUCTOR: So, so I buy them.
+
+267
+00:37:49.980 --> 00:37:51.630
+INSTRUCTOR: Okay, so I.
+
+268
+00:37:53.130 --> 00:37:57.840
+INSTRUCTOR: say I want to only see the top five.
+
+269
+00:37:59.220 --> 00:38:00.930
+INSTRUCTOR: Or the five most.
+
+270
+00:38:02.760 --> 00:38:10.050
+INSTRUCTOR: Frequent ages most common ages in the dsa, so I do limit five yeah.
+
+271
+00:38:13.890 --> 00:38:14.160
+yeah.
+
+272
+00:38:16.080 --> 00:38:27.870
+INSTRUCTOR: Okay, so, so this is so, for the purpose of this course, especially for people who have not been exposed to much sql before or, if you have maybe just been treating other people so could.
+
+273
+00:38:29.070 --> 00:38:39.420
+INSTRUCTOR: You think of the select query in in this structure, so I can repeat the summertime because you can get this and I think everything else is just understanding.
+
+274
+00:38:40.320 --> 00:38:49.530
+INSTRUCTOR: or seeing examples of I can do that so So the first line, can you think of it as multiple lines select the columns that you want to appear in your results table.
+
+275
+00:38:50.280 --> 00:38:58.560
+INSTRUCTOR: And then, where do you get the data from from these columns from from my nobody resources right, so it could be tables could be some queries you unless the queries.
+
+276
+00:38:59.190 --> 00:39:08.880
+INSTRUCTOR: That generate tables on the fly could be views that you create it from existing tables right so many different ways to get data in pain with.
+
+277
+00:39:10.500 --> 00:39:11.820
+INSTRUCTOR: apply some rule condition.
+
+278
+00:39:13.080 --> 00:39:20.340
+INSTRUCTOR: Especially if you're pulling from multiple tables, you need to specify rule conditions little I explain why yeah.
+
+279
+00:39:22.470 --> 00:39:28.440
+INSTRUCTOR: So grouping by one or more columns if you need to reduce and summarize.
+
+280
+00:39:29.580 --> 00:39:46.740
+INSTRUCTOR: Very large table into I guess specific indicators for each subset or segment of the entire table right so when you use group by that's what you're doing you are saying that.
+
+281
+00:39:47.160 --> 00:40:04.350
+INSTRUCTOR: Your whole table actually is broken up into a few groups and how do I know how to define a group, so I should I say, you know, is a unique value of weibo the columns Allah so could be location could be area could be you know postal code could be.
+
+282
+00:40:05.640 --> 00:40:08.220
+INSTRUCTOR: income bracket many different things yeah.
+
+283
+00:40:09.240 --> 00:40:17.790
+INSTRUCTOR: So the having again having is a rule filter just like where is the road filter but they're having will filter occurs after your grouping.
+
+284
+00:40:19.470 --> 00:40:34.830
+INSTRUCTOR: So, remember that when you grew by like when you create groups all your reporting all you're allowed to report is one line of information for the entire group so if you grew by income bracket.
+
+285
+00:40:36.210 --> 00:40:49.920
+INSTRUCTOR: You what you can do is you can report things like summary statistics so things like you know average income well that doesn't make sense, because the income bracket so like maybe average family size, you know.
+
+286
+00:40:52.980 --> 00:40:55.050
+INSTRUCTOR: What else could be like.
+
+287
+00:40:57.330 --> 00:40:58.110
+INSTRUCTOR: modal.
+
+288
+00:40:59.850 --> 00:41:03.690
+INSTRUCTOR: The most common places where they live, you know.
+
+289
+00:41:05.520 --> 00:41:13.950
+INSTRUCTOR: moodle median educational status, you know many different things that you can report, but then it's just one line of information.
+
+290
+00:41:15.180 --> 00:41:16.830
+INSTRUCTOR: So this.
+
+291
+00:41:17.850 --> 00:41:32.790
+INSTRUCTOR: This rule right these four lines your create results table that has as many lives as many roles as they are groups so each row in your results table represents one group, and then the columns represent.
+
+292
+00:41:34.920 --> 00:41:40.860
+INSTRUCTOR: The pieces of information or the indicators are the metrics that you want to report for each true.
+
+293
+00:41:42.180 --> 00:41:53.910
+INSTRUCTOR: Okay, so you cannot report body, it has to be we call it aggregate functions or results of aggregate functions okay so then having you can then say you know you want.
+
+294
+00:41:55.860 --> 00:42:06.000
+INSTRUCTOR: It is this examples about by income record and you want families, you know that are larger than a certain amount such a certain number of things that and all those will be.
+
+295
+00:42:09.600 --> 00:42:11.850
+INSTRUCTOR: Real I guess be computed.
+
+296
+00:42:12.870 --> 00:42:14.940
+INSTRUCTOR: From the summary tables.
+
+297
+00:42:16.170 --> 00:42:26.100
+INSTRUCTOR: From as charity after the first four rows, then you can order the you can change your presentation order and then you can again I say limit truncate the table.
+
+298
+00:42:27.450 --> 00:42:29.490
+INSTRUCTOR: Okay, so.
+
+299
+00:42:32.460 --> 00:42:44.610
+INSTRUCTOR: So you can night, I guess, I mentioned just now, you can select from multiple tables and combine the data from multiple tables and today we will go through simple examples of.
+
+300
+00:42:46.620 --> 00:42:50.520
+INSTRUCTOR: The tiny tables that you download an important yeah.
+
+301
+00:42:55.560 --> 00:43:00.450
+INSTRUCTOR: Okay, so Union so you can play along with this, and I say a lot, I mean.
+
+302
+00:43:01.470 --> 00:43:07.200
+INSTRUCTOR: You can type your own query in because he had now have the same the exact same tables then.
+
+303
+00:43:08.280 --> 00:43:08.580
+INSTRUCTOR: here.
+
+304
+00:43:10.230 --> 00:43:11.880
+INSTRUCTOR: Okay, so.
+
+305
+00:43:22.920 --> 00:43:24.120
+INSTRUCTOR: me put a semi colon.
+
+306
+00:43:30.450 --> 00:43:36.030
+INSTRUCTOR: yeah right So if you wanted to step, one on top of the other.
+
+307
+00:43:37.740 --> 00:43:39.990
+INSTRUCTOR: You can combine them into a single.
+
+308
+00:43:41.940 --> 00:43:46.800
+INSTRUCTOR: Statement single command so yeah but yeah but select.
+
+309
+00:43:48.000 --> 00:43:58.470
+INSTRUCTOR: I see and balance from your be and then you ever selecting it balance from dbs and in between that we put in all this, so what happens is it will return.
+
+310
+00:43:59.760 --> 00:44:19.560
+INSTRUCTOR: The results of the first select statement and step, the second select statement and then need a pen and okay so and in the slides I just color Code, the data from each table, so it can see what happens so if you fit the order then.
+
+311
+00:44:26.460 --> 00:44:30.540
+INSTRUCTOR: That it gets skipped here and there is up stable okay.
+
+312
+00:44:34.800 --> 00:44:35.370
+INSTRUCTOR: So.
+
+313
+00:44:39.840 --> 00:44:43.620
+INSTRUCTOR: So let's see, let me just check yes.
+
+314
+00:44:44.880 --> 00:44:46.050
+INSTRUCTOR: Okay, different.
+
+315
+00:44:47.430 --> 00:44:48.090
+INSTRUCTOR: Okay, so.
+
+316
+00:44:50.070 --> 00:44:51.090
+INSTRUCTOR: You could do this.
+
+317
+00:44:54.630 --> 00:44:57.180
+INSTRUCTOR: And then, it just gives you double of everything.
+
+318
+00:44:58.860 --> 00:45:03.570
+INSTRUCTOR: Right is the dbs stable, secondly dbs table you could do this.
+
+319
+00:45:09.870 --> 00:45:14.070
+INSTRUCTOR: and add triple right, so you can just keep Union in all.
+
+320
+00:45:16.320 --> 00:45:20.370
+INSTRUCTOR: As many times, as you want, you know it'll just keep stacking more and more.
+
+321
+00:45:21.900 --> 00:45:23.820
+INSTRUCTOR: I guess tables what I thought the other.
+
+322
+00:45:27.060 --> 00:45:31.170
+STUDENT 01: Sorry, I have a question but, so this is only.
+
+323
+00:45:32.190 --> 00:45:36.330
+STUDENT 01: This is running under the assumption that all the column names are identical right.
+
+324
+00:45:36.600 --> 00:45:45.570
+INSTRUCTOR: Oh no it doesn't have to be same column names, but it needs to be seen, are compatible types okay so it's a good question.
+
+325
+00:45:46.560 --> 00:45:47.700
+INSTRUCTOR: So in this case I just keep saying.
+
+326
+00:45:47.730 --> 00:45:51.090
+INSTRUCTOR: I see bands, I see balance right so let's say I create a new table.
+
+327
+00:46:25.080 --> 00:46:29.340
+INSTRUCTOR: OK, so now I have GPS, to table.
+
+328
+00:46:31.170 --> 00:46:37.410
+INSTRUCTOR: The column names are different from the dbs table yeah so then now if I say select.
+
+329
+00:46:38.670 --> 00:46:42.510
+INSTRUCTOR: And I see balance from yes.
+
+330
+00:46:44.190 --> 00:46:45.060
+INSTRUCTOR: All.
+
+331
+00:46:46.410 --> 00:46:48.120
+INSTRUCTOR: Like ID.
+
+332
+00:46:50.280 --> 00:46:51.840
+INSTRUCTOR: From PBS true.
+
+333
+00:46:53.190 --> 00:46:54.390
+INSTRUCTOR: It still shows up.
+
+334
+00:46:55.950 --> 00:47:00.510
+INSTRUCTOR: Okay, so that the danger about.
+
+335
+00:47:03.120 --> 00:47:13.620
+INSTRUCTOR: Union all is that it realtors blindly follow your instructions and step things so you need to make sure that it makes sense, the second.
+
+336
+00:47:19.320 --> 00:47:19.710
+INSTRUCTOR: Okay.
+
+337
+00:47:20.880 --> 00:47:29.730
+INSTRUCTOR: I saw jack ask a question right so jack your question, we will address later, when we look at joins yeah but it's a good question yeah.
+
+338
+00:47:31.890 --> 00:47:34.170
+INSTRUCTOR: Okay, so.
+
+339
+00:47:36.510 --> 00:47:36.750
+INSTRUCTOR: So.
+
+340
+00:47:39.030 --> 00:47:41.520
+INSTRUCTOR: I hope this is clear yeah.
+
+341
+00:47:45.450 --> 00:47:45.930
+INSTRUCTOR: Yes.
+
+342
+00:47:47.730 --> 00:47:48.870
+STUDENT 06: In this case.
+
+343
+00:47:50.490 --> 00:47:52.950
+STUDENT 06: Will we be able to.
+
+344
+00:47:54.750 --> 00:48:01.050
+STUDENT 06: Do filtering of the data set after you Union of this.
+
+345
+00:48:02.550 --> 00:48:02.820
+STUDENT 06: Because.
+
+346
+00:48:03.240 --> 00:48:03.690
+The.
+
+347
+00:48:05.340 --> 00:48:07.410
+INSTRUCTOR: Okay, after you might not be fired it.
+
+348
+00:48:08.460 --> 00:48:18.630
+STUDENT 06: After so like you joined to the process to get because right now we're like me like know where where function in goodbye we're not.
+
+349
+00:48:19.710 --> 00:48:25.470
+STUDENT 06: In the dbs table or the Ob table it will just be a subset of better right.
+
+350
+00:48:26.010 --> 00:48:26.460
+STUDENT 06: yeah.
+
+351
+00:48:27.240 --> 00:48:36.930
+STUDENT 06: You could literally double double the commands for your end bs but would it be possible to do it as a table by itself.
+
+352
+00:48:38.160 --> 00:48:39.600
+STUDENT 06: I said he will.
+
+353
+00:48:44.400 --> 00:48:45.330
+STUDENT 06: OK cool.
+
+354
+00:48:47.130 --> 00:48:47.460
+STUDENT 06: OK.
+
+355
+00:48:54.210 --> 00:48:56.850
+INSTRUCTOR: OK, so you can ness.
+
+356
+00:48:57.570 --> 00:49:05.250
+INSTRUCTOR: Your your this I mean query and then so when you put brackets around it, you need to give it a name.
+
+357
+00:49:06.270 --> 00:49:10.890
+INSTRUCTOR: So you can call it, anything that usually you'll do a as a BSC over.
+
+358
+00:49:12.180 --> 00:49:21.210
+INSTRUCTOR: Then you can use this as this whole thing is almost like a temporary table, so you select from this temporary table, and then you can apply a filter were like.
+
+359
+00:49:24.900 --> 00:49:32.220
+STUDENT 07: let's say I have killed the database or the same column, so how is there any short form to combine everything together.
+
+360
+00:49:32.400 --> 00:49:33.120
+Instead of just.
+
+361
+00:49:36.330 --> 00:49:46.980
+INSTRUCTOR: Well okay everybody let's see okay extremely extreme you had to be 100 datasets and actually to Union, all of them, then I wouldn't do this by hand I would.
+
+362
+00:49:48.090 --> 00:49:52.950
+INSTRUCTOR: I would write a script in Python on our that will.
+
+363
+00:49:54.330 --> 00:50:11.700
+INSTRUCTOR: go into your database pull out the names of the tables and construct a query programmatically and then execute execute it, you know and started in a new this combine massive table, you know as a new table in the database now so but.
+
+364
+00:50:12.840 --> 00:50:21.420
+INSTRUCTOR: I don't think there's like a shortcut you know where you can see style you know select from stars and they get it, I don't think it works every day.
+
+365
+00:50:22.800 --> 00:50:26.940
+STUDENT 07: Yes, it is 50 columns is there anything yeah sure.
+
+366
+00:50:28.590 --> 00:50:33.630
+INSTRUCTOR: So 50 columns depends on how much of a risk taker you so.
+
+367
+00:50:36.420 --> 00:50:37.860
+INSTRUCTOR: You can always use the star.
+
+368
+00:50:45.690 --> 00:50:47.070
+INSTRUCTOR: If you are very sure.
+
+369
+00:50:49.620 --> 00:50:50.550
+INSTRUCTOR: They are the same.
+
+370
+00:50:52.500 --> 00:51:00.270
+INSTRUCTOR: You have the exact same number of columns and are compatible right and not that someone makes the order of the columns.
+
+371
+00:51:01.320 --> 00:51:10.740
+INSTRUCTOR: On you yeah so, but if you're very sure about the structure of all your tables, then you do need to type up the columns explicitly you can you say started to see all.
+
+372
+00:51:11.850 --> 00:51:13.680
+INSTRUCTOR: My goodness this cat is terrible.
+
+373
+00:51:15.840 --> 00:51:17.640
+INSTRUCTOR: yeah so.
+
+374
+00:51:20.670 --> 00:51:21.450
+INSTRUCTOR: Is that Tara.
+
+375
+00:51:23.580 --> 00:51:26.790
+STUDENT 07: yeah so in between fantastic candy shop, which has put.
+
+376
+00:51:28.770 --> 00:51:29.670
+STUDENT 07: A marketplace.
+
+377
+00:51:30.540 --> 00:51:32.550
+INSTRUCTOR: That you need like a where line is it.
+
+378
+00:51:33.210 --> 00:51:39.300
+STUDENT 07: I yeah so let's say I treated on Sep 20 columns and now let's go to a few other columns people.
+
+379
+00:51:43.260 --> 00:51:43.740
+INSTRUCTOR: Oh.
+
+380
+00:51:45.630 --> 00:51:51.630
+INSTRUCTOR: Well, if it's only for one table, then you can you can do it here let's see where.
+
+381
+00:51:51.960 --> 00:51:54.870
+STUDENT 07: I mean there's let's say four tables 50 columns.
+
+382
+00:51:55.110 --> 00:52:00.540
+STUDENT 07: So I need to come back here we do bear that's one column they stopped doing it is, let me.
+
+383
+00:52:02.310 --> 00:52:06.030
+INSTRUCTOR: Combine everything one car, so you only won.
+
+384
+00:52:07.380 --> 00:52:12.630
+INSTRUCTOR: The race, so you want all the columns but then you wrote.
+
+385
+00:52:13.650 --> 00:52:21.630
+STUDENT 07: Oh well, 60 columns to combine I don't need those days before planes when he says that all of the columns.
+
+386
+00:52:22.110 --> 00:52:32.010
+INSTRUCTOR: Okay, then I was good, at the end so like earlier earlier question about how to do a row filter, so I would I would do like that right.
+
+387
+00:52:32.340 --> 00:52:32.580
+So.
+
+388
+00:52:33.780 --> 00:52:35.760
+INSTRUCTOR: yeah, then you select.
+
+389
+00:52:37.950 --> 00:52:44.130
+INSTRUCTOR: From this whole mess right is a temporary table and where.
+
+390
+00:52:46.590 --> 00:52:48.990
+INSTRUCTOR: Whichever column you're interested in.
+
+391
+00:52:50.400 --> 00:52:52.560
+INSTRUCTOR: Is not blank right or is.
+
+392
+00:52:53.700 --> 00:52:54.030
+STUDENT 07: It still.
+
+393
+00:52:54.810 --> 00:53:18.690
+INSTRUCTOR: Is not blank is not now yeah assuming that blank spent her could is now in your in your table is quoted as just you know empty I see, then you can you can call it right so it's not it's nothing it's like so depending on how it's called that yeah.
+
+394
+00:53:19.260 --> 00:53:19.830
+STUDENT 07: yeah understood.
+
+395
+00:53:20.640 --> 00:53:22.470
+Okay race.
+
+396
+00:53:32.430 --> 00:53:43.830
+INSTRUCTOR: yeah jack I understand your question so uh we will will get about joining, so we will talk about it in a slide up to okay so that's Union.
+
+397
+00:53:45.570 --> 00:53:47.610
+INSTRUCTOR: Jacks question okay.
+
+398
+00:53:48.630 --> 00:53:49.620
+INSTRUCTOR: So intersection.
+
+399
+00:53:51.030 --> 00:53:51.900
+INSTRUCTOR: So.
+
+400
+00:53:52.950 --> 00:53:53.970
+INSTRUCTOR: So intersection right.
+
+401
+00:54:01.020 --> 00:54:10.530
+INSTRUCTOR: intersection strictly speaking from prospect theory it just means the exact overlap between two tables Okay, then that means.
+
+402
+00:54:11.250 --> 00:54:22.680
+INSTRUCTOR: So this is a very Okay, and this is not strictly speak this is like a very strict version of a joint Okay, where the values for all the columns for all the tables match up.
+
+403
+00:54:24.720 --> 00:54:26.610
+INSTRUCTOR: So so.
+
+404
+00:54:28.890 --> 00:54:29.640
+INSTRUCTOR: city.
+
+405
+00:54:30.660 --> 00:54:34.170
+INSTRUCTOR: And I see balance.
+
+406
+00:54:37.170 --> 00:54:38.040
+INSTRUCTOR: From.
+
+407
+00:54:40.560 --> 00:54:40.740
+The.
+
+408
+00:54:42.690 --> 00:54:43.800
+INSTRUCTOR: PC.
+
+409
+00:54:47.430 --> 00:54:48.240
+INSTRUCTOR: If he.
+
+410
+00:54:49.860 --> 00:54:53.010
+INSTRUCTOR: Calls hsbc and see.
+
+411
+00:54:54.360 --> 00:55:01.560
+INSTRUCTOR: city balance because hsbc balance okay so.
+
+412
+00:55:02.850 --> 00:55:04.770
+INSTRUCTOR: There is boxes that you see okay.
+
+413
+00:55:07.350 --> 00:55:07.740
+INSTRUCTOR: So.
+
+414
+00:55:09.840 --> 00:55:10.830
+INSTRUCTOR: In this case.
+
+415
+00:55:12.690 --> 00:55:27.630
+INSTRUCTOR: Is a it's kind of like a contrived example where you have people with accounting to banks with exactly the same balances kind of I unless people purposely do this, you should not see this in real life yeah.
+
+416
+00:55:30.210 --> 00:55:32.460
+INSTRUCTOR: So notice that when.
+
+417
+00:55:34.020 --> 00:55:37.380
+INSTRUCTOR: We are pulling from more than one people okay.
+
+418
+00:55:38.880 --> 00:55:41.970
+INSTRUCTOR: What happens, you can try this at home.
+
+419
+00:55:43.560 --> 00:55:45.480
+INSTRUCTOR: If you remove the were like.
+
+420
+00:55:46.740 --> 00:55:49.050
+INSTRUCTOR: Okay, then you see why I went to resolve stable.
+
+421
+00:55:51.270 --> 00:55:53.850
+INSTRUCTOR: Suddenly, your results table have nine routes.
+
+422
+00:55:55.140 --> 00:56:00.510
+INSTRUCTOR: So, and then you can really tell what's going on, because i'm only pulling the information from the city table.
+
+423
+00:56:28.470 --> 00:56:30.630
+INSTRUCTOR: What happens when you pull when you specify.
+
+424
+00:56:32.130 --> 00:56:35.940
+INSTRUCTOR: More than one table and the from line without anywhere like.
+
+425
+00:56:45.750 --> 00:56:47.970
+STUDENT 06: looks like it was being caused by side to side.
+
+426
+00:56:50.370 --> 00:56:51.180
+INSTRUCTOR: Explain a bit more.
+
+427
+00:56:53.970 --> 00:56:56.820
+STUDENT 06: Because they are now from the syllabus on the select.
+
+428
+00:56:57.840 --> 00:57:08.160
+STUDENT 06: statement you are selecting four columns, so there are there are two columns that belong to CP and true colors they will not be hsbc so.
+
+429
+00:57:09.660 --> 00:57:20.610
+STUDENT 06: In that sense, the first two columns that you see you see it, so if our okay so so in the end, because in the first column, you have to specify which.
+
+430
+00:57:22.200 --> 00:57:41.010
+STUDENT 06: table belongs to, if not it doesn't know where to pull the NIC, on balance, because it appears on both table, so it looks like you're specifying the banks in the US yeah right so then subsequently from the two tables, which is CBS NBC okay.
+
+431
+00:57:41.070 --> 00:57:58.410
+INSTRUCTOR: Yes, Okay, so I exactly so here I specified table name in front of the column name just to remove the ambiguity, because the nri see column occurs in both the city bank table and the hsbc table simple balance so you need to remove ambiguity.
+
+432
+00:57:59.490 --> 00:58:10.620
+INSTRUCTOR: by specifying the table name explicitly, so the balance column from the city table that's how that's how he says, right here, so my my question right is how come the nine euros.
+
+433
+00:58:13.230 --> 00:58:15.510
+INSTRUCTOR: free time yes yeah yeah.
+
+434
+00:58:17.640 --> 00:58:28.470
+STUDENT 08: it's a combination of or tree matching each individual column rose to the one from one individual city columns to one.
+
+435
+00:58:29.550 --> 00:58:30.630
+STUDENT 08: hsbc column.
+
+436
+00:58:33.570 --> 00:58:34.860
+INSTRUCTOR: Yes, so.
+
+437
+00:58:36.630 --> 00:58:37.140
+INSTRUCTOR: If.
+
+438
+00:58:38.460 --> 00:58:43.440
+INSTRUCTOR: it's a partition product so essentially it's it's.
+
+439
+00:58:44.880 --> 00:58:52.560
+INSTRUCTOR: Combining unique values on every different rule every rule in one people with every rule in another table.
+
+440
+00:58:53.790 --> 00:59:00.210
+INSTRUCTOR: Right so because he because there is no clear line that tells the actual engine.
+
+441
+00:59:01.680 --> 00:59:04.800
+INSTRUCTOR: How how the rules are related to each other.
+
+442
+00:59:05.910 --> 00:59:07.620
+INSTRUCTOR: So, because we are not explicitly.
+
+443
+00:59:09.690 --> 00:59:17.760
+INSTRUCTOR: specified the relationship between the rules across the different tables the engine to say okay every rule can belong to every other rule.
+
+444
+00:59:18.240 --> 00:59:23.730
+INSTRUCTOR: You know everyone this label can belong to anyone this table that's why it's doing it's just matching up.
+
+445
+00:59:24.720 --> 00:59:36.630
+INSTRUCTOR: The first rule in the city table with each of the roads in hsbc table the second row into the table, if you should was initially stable that that role city each of the rotations we see that's why you have nine rose.
+
+446
+00:59:37.980 --> 00:59:39.780
+INSTRUCTOR: Okay, so this is.
+
+447
+00:59:41.970 --> 00:59:44.820
+INSTRUCTOR: A Cartesian product right so.
+
+448
+00:59:49.710 --> 00:59:51.330
+INSTRUCTOR: Then we test.
+
+449
+00:59:52.410 --> 00:59:53.970
+INSTRUCTOR: When we have the hairline.
+
+450
+00:59:55.170 --> 00:59:58.410
+INSTRUCTOR: Okay, so if you're pulling from multiple data sources.
+
+451
+01:00:00.420 --> 01:00:10.320
+INSTRUCTOR: The way line specifies the relationship between the rows of the between the tables rose from one table and how they relate it wasn't a table so that.
+
+452
+01:00:11.250 --> 01:00:24.630
+INSTRUCTOR: What shows up essentially is makes sense law, because in most cases, you know every possible combination of rules remind people to not evil is not what you like.
+
+453
+01:00:33.210 --> 01:00:33.540
+INSTRUCTOR: Okay.
+
+454
+01:00:34.560 --> 01:00:36.540
+INSTRUCTOR: I think he was asked a question about the thought right.
+
+455
+01:00:40.260 --> 01:00:41.490
+INSTRUCTOR: So, so this.
+
+456
+01:00:43.890 --> 01:00:45.450
+INSTRUCTOR: is having the thought here.
+
+457
+01:00:47.430 --> 01:00:54.360
+INSTRUCTOR: is actually is saying that the column is actually from this table and that's what that.
+
+458
+01:00:55.620 --> 01:00:56.910
+INSTRUCTOR: Is for yeah.
+
+459
+01:01:02.010 --> 01:01:02.610
+The.
+
+460
+01:01:03.960 --> 01:01:08.490
+STUDENT 09: Two tables having different types of column names, so should we still put the table name.
+
+461
+01:01:09.750 --> 01:01:10.800
+STUDENT 09: Let me see.
+
+462
+01:01:10.860 --> 01:01:12.000
+STUDENT 09: Only presenting on.
+
+463
+01:01:12.690 --> 01:01:12.960
+Okay.
+
+464
+01:01:14.220 --> 01:01:15.210
+INSTRUCTOR: Then no you don't need to.
+
+465
+01:01:16.410 --> 01:01:16.800
+INSTRUCTOR: Very good.
+
+466
+01:01:17.220 --> 01:01:19.590
+STUDENT 09: Okay Okay, thank you yeah.
+
+467
+01:01:20.370 --> 01:01:28.590
+INSTRUCTOR: So the dbs and dbs right so select in our right see balance.
+
+468
+01:01:31.200 --> 01:01:34.470
+INSTRUCTOR: What do we call it ID network.
+
+469
+01:01:37.680 --> 01:01:40.230
+INSTRUCTOR: From EBS yes true.
+
+470
+01:01:42.630 --> 01:01:55.950
+INSTRUCTOR: So, because there's no ambiguity here you don't need to go the p s nri R ic dbs balance DPS to ID.
+
+471
+01:01:56.970 --> 01:02:01.470
+INSTRUCTOR: ups, who got network is it you see the same thing, but you don't need to.
+
+472
+01:02:07.680 --> 01:02:08.040
+INSTRUCTOR: Okay.
+
+473
+01:02:11.010 --> 01:02:11.760
+INSTRUCTOR: So.
+
+474
+01:02:18.330 --> 01:02:20.040
+INSTRUCTOR: Let me modified.
+
+475
+01:02:22.290 --> 01:02:24.660
+INSTRUCTOR: skip a hit show you.
+
+476
+01:02:27.120 --> 01:02:31.170
+INSTRUCTOR: Okay, so that is what we just spoke about yeah.
+
+477
+01:02:43.710 --> 01:02:55.740
+INSTRUCTOR: So every every so they're combining every row in one cable every row in the table, so this case that three rows here to Rosa so it becomes six rows yeah.
+
+478
+01:03:03.240 --> 01:03:03.570
+INSTRUCTOR: yep.
+
+479
+01:03:09.090 --> 01:03:09.600
+INSTRUCTOR: Okay.
+
+480
+01:03:13.230 --> 01:03:13.710
+INSTRUCTOR: So.
+
+481
+01:03:19.080 --> 01:03:28.140
+INSTRUCTOR: um i'm just gonna run through these ones little game, you can play with, because these are very simple projection is that theory just means cutting down the number of dimensions.
+
+482
+01:03:29.400 --> 01:03:33.810
+INSTRUCTOR: So from in this case three dimensions dimensions so.
+
+483
+01:03:35.430 --> 01:03:51.270
+INSTRUCTOR: selection and set theory is cutting down number grows so it's like playing a role filter so all this is just if you're familiar with that theory, then at least this helps you met the different commands are the types of things you can do with an sql you know maps this area so but.
+
+484
+01:03:52.860 --> 01:03:56.100
+INSTRUCTOR: I think I understood the examples of these things make sense.
+
+485
+01:03:57.540 --> 01:04:00.120
+INSTRUCTOR: OK, so now in a dry okay.
+
+486
+01:04:02.310 --> 01:04:14.760
+INSTRUCTOR: So just check had a question about combining are having multiple of the balances for multiple banks on the same line yeah.
+
+487
+01:04:15.900 --> 01:04:19.530
+INSTRUCTOR: So let's see you I looks like so.
+
+488
+01:05:05.970 --> 01:05:06.690
+INSTRUCTOR: So.
+
+489
+01:05:07.710 --> 01:05:15.420
+INSTRUCTOR: Again, we are pulling from from different tables if we didn't have the queer line movie.
+
+490
+01:05:17.160 --> 01:05:29.340
+INSTRUCTOR: do the same thing for Cartesian product so notice nine euros right three times three so every combining every row in one table every rule and get a table.
+
+491
+01:05:29.940 --> 01:05:40.320
+INSTRUCTOR: Right so, but in this case, we know that the rules on you should be combined if they have the same ID number so and that's what we are seeing.
+
+492
+01:05:40.920 --> 01:05:49.140
+INSTRUCTOR: If it numbers are the same across the road that's when you want is that those are the only ones that you haven't seen the results table everything else you throw away because it doesn't make sense.
+
+493
+01:05:50.160 --> 01:05:50.550
+INSTRUCTOR: yeah.
+
+494
+01:05:52.410 --> 01:05:53.100
+INSTRUCTOR: So.
+
+495
+01:05:54.270 --> 01:05:57.450
+INSTRUCTOR: Actually, at this point right Okay, and let me remove this.
+
+496
+01:05:58.530 --> 01:05:59.040
+INSTRUCTOR: Some.
+
+497
+01:06:00.480 --> 01:06:02.970
+INSTRUCTOR: So you look at lines, two and three.
+
+498
+01:06:05.760 --> 01:06:07.290
+INSTRUCTOR: by specifying this.
+
+499
+01:06:08.670 --> 01:06:12.900
+INSTRUCTOR: You have access to any column in either table.
+
+500
+01:06:16.830 --> 01:06:19.590
+INSTRUCTOR: So I can just stop and they do just show.
+
+501
+01:06:24.780 --> 01:06:31.590
+INSTRUCTOR: So jack what you want is the outer dry yeah later we'll talk about it okay.
+
+502
+01:06:36.990 --> 01:06:37.860
+INSTRUCTOR: So.
+
+503
+01:06:40.320 --> 01:06:57.210
+INSTRUCTOR: So I can say any column right so stylized while that selects all columns available from the data sources that you're pulling from so essentially I my my thing this has exposed all the columns to be a lot of Mila so in this case actually I.
+
+504
+01:06:59.100 --> 01:07:03.960
+INSTRUCTOR: I don't need to see the ice number called twice, because they will share the same value yeah.
+
+505
+01:07:07.740 --> 01:07:09.750
+INSTRUCTOR: Okay questions about this.
+
+506
+01:07:36.840 --> 01:07:48.540
+STUDENT 06: hi Marcus um I, I do have a question, so I was just wondering why the system is in this manner.
+
+507
+01:07:50.940 --> 01:07:53.160
+STUDENT 06: Is there, like a use for.
+
+508
+01:07:54.480 --> 01:07:58.830
+STUDENT 06: The way the join works not I mean not giant is in use.
+
+509
+01:07:59.850 --> 01:08:02.340
+STUDENT 06: for something like what you just showed that there's no.
+
+510
+01:08:02.850 --> 01:08:05.010
+STUDENT 06: They can win yeah like, why does.
+
+511
+01:08:06.210 --> 01:08:10.920
+INSTRUCTOR: The Cartesian product right, yes, yes okay so.
+
+512
+01:08:18.690 --> 01:08:19.650
+INSTRUCTOR: Kathy same product.
+
+513
+01:08:20.790 --> 01:08:25.350
+INSTRUCTOR: So there's a practical use for it imagine if you had.
+
+514
+01:08:26.580 --> 01:08:41.610
+INSTRUCTOR: You had a matrix that you wanted to construct right so and then you fill that that, let me rephrase myself, maybe have a table, you know construct and you had to fill the table up with stuff so it could be.
+
+515
+01:08:43.140 --> 01:08:46.710
+INSTRUCTOR: You wanted to see every unique combination of salesperson and region.
+
+516
+01:08:47.940 --> 01:08:56.220
+INSTRUCTOR: or salesperson and I get sales for me right, so, then you have one table with the list of sales people's names and then another table.
+
+517
+01:08:56.580 --> 01:09:06.870
+INSTRUCTOR: This of sales format and then many to Cartesian product, then he will then create this we call it a long format table where every unique combination of salesperson and.
+
+518
+01:09:07.980 --> 01:09:15.330
+INSTRUCTOR: Sales form it shows up in Israel so so, but those users are few and far between.
+
+519
+01:09:16.500 --> 01:09:18.510
+INSTRUCTOR: So, but the reason why we teach.
+
+520
+01:09:19.620 --> 01:09:30.570
+INSTRUCTOR: Our always useful to understand how the Cartesian product works, yes, because every time you do a join where there's a you know join our join it.
+
+521
+01:09:31.770 --> 01:09:34.200
+INSTRUCTOR: should address billy's question in the chat.
+
+522
+01:09:35.790 --> 01:09:45.120
+INSTRUCTOR: This kind of the right combination combining different tables, you can think of it as the seo engine is doing a Cartesian product as a first step.
+
+523
+01:09:46.890 --> 01:09:47.310
+STUDENT 06: Right and.
+
+524
+01:09:47.340 --> 01:09:59.400
+INSTRUCTOR: Then yeah and then, when you apply to your role filter then it throws that we start throwing away all the rules that don't make sense and only only there was that makes sense, as specified on the rare condition.
+
+525
+01:10:00.720 --> 01:10:03.810
+INSTRUCTOR: will survive fly and shop in your is not stable right.
+
+526
+01:10:05.070 --> 01:10:05.910
+INSTRUCTOR: So.
+
+527
+01:10:08.640 --> 01:10:09.300
+INSTRUCTOR: Sometimes.
+
+528
+01:10:10.410 --> 01:10:12.510
+INSTRUCTOR: When i'm teaching programming.
+
+529
+01:10:13.590 --> 01:10:27.840
+INSTRUCTOR: Here hear students, especially very seldom graduate students typically undergraduate students at some point they'll see Prof my copyrights hanging right because essentially.
+
+530
+01:10:30.360 --> 01:10:37.800
+INSTRUCTOR: They wouldn't do something like this Okay, because it's rated we thought they were line it becomes a Cartesian product but.
+
+531
+01:10:38.940 --> 01:10:51.540
+INSTRUCTOR: They were line that's not pin down fully the relationship between rules on one table it was another table, and then you, you get kind of a Cartesian product on the remainder.
+
+532
+01:10:52.440 --> 01:11:04.770
+INSTRUCTOR: So, and then you know our tables now three rows each I imagine if you had a table with you know 100,000 rows each your computer hangar so.
+
+533
+01:11:07.800 --> 01:11:25.890
+INSTRUCTOR: So it's very useful to appreciate how sql does the work in the in the background, you know before it shows up on your your query window, so that you try as high as possible not to do it catches it butter in it, but then the right by.
+
+534
+01:11:27.000 --> 01:11:35.610
+INSTRUCTOR: specifying the relationships pinning down relationship between rose from one to another, I hope that kind of.
+
+535
+01:11:36.780 --> 01:11:39.120
+STUDENT 06: yeah yeah absolutely thanks thanks.
+
+536
+01:11:39.210 --> 01:11:39.690
+INSTRUCTOR: Thank you.
+
+537
+01:11:40.410 --> 01:11:40.890
+STUDENT 07: Sorry.
+
+538
+01:11:41.010 --> 01:11:46.140
+STUDENT 07: If I want to do this right now how how to do that combining hsbc or mind.
+
+539
+01:11:46.170 --> 01:11:47.400
+STUDENT 07: view so model gather.
+
+540
+01:11:49.140 --> 01:11:49.830
+INSTRUCTOR: them together.
+
+541
+01:11:50.460 --> 01:11:52.650
+STUDENT 07: A month, so any opinion I see and it.
+
+542
+01:11:56.430 --> 01:11:58.140
+STUDENT 07: was just a blast yeah.
+
+543
+01:12:02.100 --> 01:12:02.730
+STUDENT 07: Okay, thank you.
+
+544
+01:12:03.450 --> 01:12:03.780
+Okay.
+
+545
+01:12:06.210 --> 01:12:07.170
+INSTRUCTOR: Okay, so.
+
+546
+01:12:12.270 --> 01:12:13.410
+INSTRUCTOR: So we can do.
+
+547
+01:12:17.520 --> 01:12:19.170
+INSTRUCTOR: You can change the keywords.
+
+548
+01:12:21.660 --> 01:12:32.850
+INSTRUCTOR: And is the same really yeah So if you want to structure it with the drawing key way then instead of a clear line, you need to on.
+
+549
+01:12:33.960 --> 01:12:40.590
+INSTRUCTOR: So table one in a joint table to on an index how you specify the rule conditions.
+
+550
+01:12:41.760 --> 01:12:44.550
+INSTRUCTOR: Okay, so this is just a different way to express the same thing that.
+
+551
+01:12:47.100 --> 01:12:49.080
+INSTRUCTOR: I have a.
+
+552
+01:12:51.270 --> 01:13:01.830
+INSTRUCTOR: preference for the queer line but that's just my personal preference So if you all, if you are familiar with using the join them, you can use it in a joint approach yeah.
+
+553
+01:13:08.040 --> 01:13:09.480
+INSTRUCTOR: And you show tables.
+
+554
+01:13:10.710 --> 01:13:12.570
+INSTRUCTOR: So you describe all peoples.
+
+555
+01:13:13.980 --> 01:13:15.660
+INSTRUCTOR: Okay depends on what you mean by described law.
+
+556
+01:13:18.060 --> 01:13:19.560
+INSTRUCTOR: So when you do this quite right.
+
+557
+01:13:23.280 --> 01:13:31.290
+INSTRUCTOR: It shows essentially the structure of the table right the data types and all right when you use show tables.
+
+558
+01:13:32.910 --> 01:13:38.310
+INSTRUCTOR: It just list the names of the tables in the current database yeah.
+
+559
+01:13:43.470 --> 01:13:43.980
+INSTRUCTOR: Okay.
+
+560
+01:13:46.770 --> 01:13:50.280
+INSTRUCTOR: Okay, oh I explained it haha okay so.
+
+561
+01:13:52.110 --> 01:14:06.240
+INSTRUCTOR: So, in a giant explanation, so it says, if you break it down to three steps, the first step is the sql engine does a Cartesian product combining each row in the USA, both issue and initial cce table.
+
+562
+01:14:09.810 --> 01:14:10.350
+INSTRUCTOR: Then.
+
+563
+01:14:12.810 --> 01:14:23.250
+INSTRUCTOR: looks at the rule filter right and then it's actually only the rules that satisfied a row filter shows up in the results stable.
+
+564
+01:14:28.440 --> 01:14:41.010
+INSTRUCTOR: So yeah and then the second one is it does a column filter right because we didn't say star right initial our initial thing was the US and REC agency balance so and that's what happens and then cut standard columns.
+
+565
+01:14:48.060 --> 01:14:52.950
+INSTRUCTOR: Okay um any questions about this before we move on.
+
+566
+01:15:01.830 --> 01:15:05.100
+INSTRUCTOR: Okay left out the joy okay.
+
+567
+01:15:06.870 --> 01:15:07.980
+INSTRUCTOR: So imagine.
+
+568
+01:15:09.480 --> 01:15:23.790
+INSTRUCTOR: If you work for Postbank right so, but you want to see of all your postpaid customers, the balances of anyone who has an HP account.
+
+569
+01:15:26.040 --> 01:15:27.090
+INSTRUCTOR: But when you do under drop.
+
+570
+01:15:28.470 --> 01:15:30.510
+INSTRUCTOR: You don't want to lose any.
+
+571
+01:15:33.270 --> 01:15:38.790
+INSTRUCTOR: any of them without rgb account so then he tried to make this.
+
+572
+01:15:40.320 --> 01:15:40.710
+INSTRUCTOR: Right.
+
+573
+01:15:44.160 --> 01:15:44.760
+Okay.
+
+574
+01:16:10.680 --> 01:16:16.620
+INSTRUCTOR: Okay, so we did this right this the inner join approach yeah.
+
+575
+01:16:18.540 --> 01:16:24.810
+INSTRUCTOR: We know that post dang has for customers, but only to survive the query.
+
+576
+01:16:26.580 --> 01:16:32.580
+INSTRUCTOR: Because i'm only showing right look at my real condition only when.
+
+577
+01:16:33.840 --> 01:16:40.050
+INSTRUCTOR: The prospect, I see number is the same as our HP I see number So those are the only rose i'm sure.
+
+578
+01:16:41.850 --> 01:16:45.120
+INSTRUCTOR: So, so this is equivalent to add in a joiner right.
+
+579
+01:16:46.770 --> 01:16:54.390
+INSTRUCTOR: So, but as the as the manager in Postbank I won I don't want to lose information about my other customers right.
+
+580
+01:16:55.470 --> 01:17:00.240
+INSTRUCTOR: So what I do is I do this death out the joy.
+
+581
+01:17:08.970 --> 01:17:19.830
+INSTRUCTOR: So, so what led the other joined us is that it uses the Left table to the left or the right, left table as the base.
+
+582
+01:17:20.880 --> 01:17:40.140
+INSTRUCTOR: So, and then it takes on information from the right table where there is information it has no information, then it will just happen missing value placeholder now into cells right, so I could have so remember I have all the information in the Left table.
+
+583
+01:17:49.650 --> 01:17:51.930
+INSTRUCTOR: So I can report anything that people.
+
+584
+01:18:03.090 --> 01:18:03.480
+INSTRUCTOR: Okay, so.
+
+585
+01:18:04.860 --> 01:18:07.770
+INSTRUCTOR: it's 10 o'clock now why don't we take.
+
+586
+01:18:09.030 --> 01:18:09.060
+INSTRUCTOR: A.
+
+587
+01:18:10.140 --> 01:18:15.330
+INSTRUCTOR: 10 minute break so yeah so come back at about 1010 yeah.
+
+588
+01:18:22.230 --> 01:18:23.610
+INSTRUCTOR: If many columns.
+
+589
+01:18:27.480 --> 01:18:29.130
+INSTRUCTOR: Of the trade show indicate the ice.
+
+590
+01:18:30.720 --> 01:18:34.650
+INSTRUCTOR: Right now we are joining on it number yeah especially, I think that.
+
+591
+01:18:49.740 --> 01:18:51.570
+INSTRUCTOR: We can add more and more here.
+
+592
+01:18:55.080 --> 01:18:59.370
+INSTRUCTOR: So jack depending on where which table the columns come from.
+
+593
+01:19:20.310 --> 01:19:21.810
+INSTRUCTOR: Okay, why don't we take a break now.
+
+594
+01:19:23.490 --> 01:19:29.970
+INSTRUCTOR: Now we got name I see balance headphone yeah so we can just keep adding Hella.
+
+595
+01:19:31.350 --> 01:19:32.070
+INSTRUCTOR: me.
+
+596
+01:19:35.670 --> 01:19:41.880
+INSTRUCTOR: phone because I see here the right and the balances, so if if these things.
+
+597
+01:19:43.140 --> 01:19:45.720
+INSTRUCTOR: present in the tables, then they will sure.
+
+598
+01:19:47.040 --> 01:19:47.460
+INSTRUCTOR: yeah.
+
+599
+01:19:52.680 --> 01:20:03.330
+INSTRUCTOR: If they are present in both tables, they just need to see which table we went from just like the ice is present in both tables yeah yes i'm not sure if i'm answering your question but i'm.
+
+600
+01:20:04.500 --> 01:20:10.620
+INSTRUCTOR: position and joining sorry guys, as I see this is like the first column, as I see.
+
+601
+01:20:13.290 --> 01:20:16.350
+INSTRUCTOR: Okay, so the second and that lines.
+
+602
+01:20:18.270 --> 01:20:24.870
+INSTRUCTOR: You don't need to specify just because this I see here you didn't eat spicy as the first column yeah.
+
+603
+01:20:26.580 --> 01:20:33.930
+INSTRUCTOR: So you can yes, you can remove ic folks oops I see you can remove it, maybe not.
+
+604
+01:20:35.370 --> 01:20:42.240
+INSTRUCTOR: Unless going on yeah, I think, and I put this fixed stuff here, so you can remove ic.
+
+605
+01:20:43.410 --> 01:20:46.170
+INSTRUCTOR: And you should just issue still run right.
+
+606
+01:20:48.240 --> 01:20:50.070
+INSTRUCTOR: Okay, so anyway.
+
+607
+01:20:51.300 --> 01:20:53.670
+INSTRUCTOR: i'll see y'all at 1010 so okay.
+
+608
+01:31:50.190 --> 01:31:50.910
+INSTRUCTOR: DEMO.
+
+609
+01:31:56.730 --> 01:31:57.540
+INSTRUCTOR: This.
+
+610
+01:31:58.710 --> 01:31:59.190
+INSTRUCTOR: DEMO.
+
+611
+01:32:00.210 --> 01:32:00.990
+INSTRUCTOR: scene.
+
+612
+01:32:51.690 --> 01:32:53.910
+INSTRUCTOR: Okay, so i'm going to start with DEMO.
+
+613
+01:33:44.370 --> 01:33:46.620
+STUDENT 10: hi can everyone hear me.
+
+614
+01:33:48.330 --> 01:33:48.660
+Okay.
+
+615
+01:34:04.500 --> 01:34:04.980
+STUDENT 10: Okay.
+
+616
+01:34:09.720 --> 01:34:22.050
+STUDENT 10: Alright, so the function of your sharing is called number and the syntax oral numbering could skip over partition by an order by.
+
+617
+01:34:22.620 --> 01:34:35.070
+STUDENT 10: So basically this function returns this equation number of a row, starting at one and when the data is petition the raw numbers reset to one when petition changes.
+
+618
+01:34:36.030 --> 01:34:49.650
+STUDENT 10: They share some basic excel see how this works for this girl number function, the other, the over and order by cause is required, but the petition by causes.
+
+619
+01:34:52.950 --> 01:35:02.790
+STUDENT 10: So here's some of the usage for rule number one, why is it can be useful pagination, the other is.
+
+620
+01:35:04.170 --> 01:35:07.650
+STUDENT 10: dating duplicating rose, except for one.
+
+621
+01:35:09.420 --> 01:35:10.440
+STUDENT 10: So here's.
+
+622
+01:35:11.520 --> 01:35:19.170
+STUDENT 10: One example, with only order by being used where the position by it's optional.
+
+623
+01:35:23.700 --> 01:35:24.840
+STUDENT 10: Okay, so.
+
+624
+01:35:27.720 --> 01:35:41.340
+STUDENT 10: So first up, I was choosing the cause, we want, in this case I choose and cat and dog, and then we will keep the same text for rule number so.
+
+625
+01:35:42.570 --> 01:35:57.240
+STUDENT 10: There will use the order by choosing which column, we want the numbering with respect to so without position the numbering appears Gregory numbering a ranking starting from the inkjet.
+
+626
+01:35:58.290 --> 01:36:13.200
+STUDENT 10: Starting from one, so the order numbers starts from one all the way to the total number of rows which is 775 ever the anchor value was our lowest value, all the way to the highest.
+
+627
+01:36:15.180 --> 01:36:36.390
+STUDENT 10: So the next part is adding on petition by So when I include petition by the numbering will restart from one and when the value contained of the chosen column has changed in this case when Kevin changes from wanted to the order numbers restarts on one.
+
+628
+01:36:37.590 --> 01:36:46.290
+STUDENT 10: So can see from a risk, where where and cat changes phone wanted to the order number recounts.
+
+629
+01:36:47.820 --> 01:36:54.870
+STUDENT 10: It sort of extra one, so it goes for the same way and get better changes, one of our country from tree to tree.
+
+630
+01:36:55.950 --> 01:36:58.530
+STUDENT 10: He can be applied to text to.
+
+631
+01:37:00.540 --> 01:37:15.360
+STUDENT 10: Okay, so here's an example for pagination I did so, the first step, I did I create a burly table using least ask operator.
+
+632
+01:37:16.530 --> 01:37:18.480
+STUDENT 10: And after that I.
+
+633
+01:37:20.160 --> 01:37:37.080
+STUDENT 10: selected the calls, based on the temporary table that I did pagination by using between an operator to split up the tables, so I can see that the table is being split up using the order number.
+
+634
+01:37:38.520 --> 01:37:46.710
+STUDENT 10: So this this can be useful for some engineering purpose for just socializing the table.
+
+635
+01:37:48.000 --> 01:37:48.660
+STUDENT 10: Thanks.
+
+636
+01:37:51.510 --> 01:37:56.070
+INSTRUCTOR: Oh, thank you very much, I think it can be useful.
+
+637
+01:37:59.670 --> 01:38:00.750
+INSTRUCTOR: Although I use.
+
+638
+01:38:02.520 --> 01:38:04.890
+INSTRUCTOR: Like like i'm bringing.
+
+639
+01:38:07.140 --> 01:38:14.940
+INSTRUCTOR: This auto increment kind of thing, but I can imagine that for some cases, you can very useful.
+
+640
+01:38:17.460 --> 01:38:18.630
+INSTRUCTOR: I think it'd be in.
+
+641
+01:38:20.310 --> 01:38:27.840
+INSTRUCTOR: The research is less used but add to our production and stuff they can be used quite a bit.
+
+642
+01:38:30.870 --> 01:38:32.580
+INSTRUCTOR: And you can.
+
+643
+01:38:34.350 --> 01:38:36.150
+INSTRUCTOR: continue where we left off.
+
+644
+01:39:19.980 --> 01:39:20.040
+INSTRUCTOR: Okay.
+
+645
+01:39:22.200 --> 01:39:24.360
+INSTRUCTOR: yeah do you ask the question again.
+
+646
+01:39:25.380 --> 01:39:30.720
+INSTRUCTOR: I don't fully understand the question I appreciate you asking.
+
+647
+01:39:33.150 --> 01:39:33.540
+INSTRUCTOR: Oh yeah.
+
+648
+01:39:41.880 --> 01:39:47.550
+STUDENT 11: I can do you okay i'm trying to get as a can you hear me.
+
+649
+01:39:48.210 --> 01:39:58.860
+STUDENT 11: yeah Okay, I can find it as a business analyst because I use a lot of data so someone can do the job okay let's say now, we assume that.
+
+650
+01:39:59.550 --> 01:40:11.280
+STUDENT 11: We got more columns instead of two columns so let's say, for example, I I see mean the balance in both bang say psp on the DS DS in Paris company.
+
+651
+01:40:11.910 --> 01:40:22.290
+STUDENT 11: And also, he or whatever, so now i'm trying to tell you is that, first of all, for the same name, and I see will be a unique identity.
+
+652
+01:40:23.010 --> 01:40:31.320
+STUDENT 11: So, when you say, let alone, let john wait until the fear for your skin color is understood that that your left your left side, and I see.
+
+653
+01:40:31.890 --> 01:40:51.570
+STUDENT 11: But listen now I have more column name, and I see is identical you see if the unit, so how can you address this outer life comparison before you say you consolidate the same thing with the same it then to present in the band and.
+
+654
+01:40:51.930 --> 01:40:53.610
+STUDENT 11: A tip and dbs yeah.
+
+655
+01:40:54.630 --> 01:40:57.630
+INSTRUCTOR: yeah yeah so so let me thanks thanks Jeff.
+
+656
+01:40:57.840 --> 01:40:59.370
+INSTRUCTOR: Sorry, no, no, no.
+
+657
+01:40:59.580 --> 01:41:00.090
+STUDENT 11: No questions.
+
+658
+01:41:00.780 --> 01:41:02.640
+INSTRUCTOR: No okay so yeah so.
+
+659
+01:41:04.830 --> 01:41:11.250
+INSTRUCTOR: Let me try to address this up so so left out to join right so left refers to table.
+
+660
+01:41:12.330 --> 01:41:22.800
+INSTRUCTOR: Left table what color so so in the outer join whether or not is left or right because there's a there's another good one for right.
+
+661
+01:41:23.610 --> 01:41:32.610
+INSTRUCTOR: For left, we are saying that the Left table it means the whole table is your is the base Okay, so this way you're starting point.
+
+662
+01:41:33.090 --> 01:41:49.170
+INSTRUCTOR: And all the information in the Left table will survive in the results, the book that means when you are when you create a result stable everything that you have to lift a book is accessible to you, you can use any in any piece of information in the left a boat.
+
+663
+01:41:50.190 --> 01:41:52.530
+INSTRUCTOR: In the original left a bow in your results stable.
+
+664
+01:41:54.060 --> 01:42:08.310
+INSTRUCTOR: So if there are many, many columns here in the Left table I under select line when I specify the columns that went to appear my results table I can select any of them, and they will all show up as they are yeah.
+
+665
+01:42:11.130 --> 01:42:12.270
+INSTRUCTOR: So the right table.
+
+666
+01:42:13.680 --> 01:42:23.370
+INSTRUCTOR: will join Rosa right cable will be tacked to specific rules in the depth table based on this joining condition.
+
+667
+01:42:24.660 --> 01:42:33.720
+INSTRUCTOR: So in this case, all we needed was icy number, because we don't see them as a unique let's say if it were something else, like, I think.
+
+668
+01:42:34.380 --> 01:42:49.980
+INSTRUCTOR: What Jeff alluded to it let's say you have more than one column that needs to match before you allow the rules across the tables to match, then you can just specify them here, you can see, I see number and another.
+
+669
+01:42:51.210 --> 01:42:59.640
+INSTRUCTOR: Another thing say the name law, because I know it should be deceived by my this i'm just giving an example of.
+
+670
+01:43:02.100 --> 01:43:03.180
+INSTRUCTOR: specify multiple.
+
+671
+01:43:04.530 --> 01:43:16.590
+INSTRUCTOR: Conditions, you know for the adjoining condition okay just logical enter yeah so, then the only ones that show up to the if the ice numbers match and the names match.
+
+672
+01:43:18.120 --> 01:43:19.230
+INSTRUCTOR: If they don't, then it would.
+
+673
+01:43:19.860 --> 01:43:26.250
+STUDENT 11: Show me this is my original discussion yeah anything different in particular will not be so.
+
+674
+01:43:27.060 --> 01:43:33.630
+STUDENT 11: Good so perfect that could be some areas human error, I mean it can be seen Sydney, but I see.
+
+675
+01:43:34.230 --> 01:43:50.790
+STUDENT 11: I see number different you see Oh, I see nothing but an indifferent so often, they want to be more deeper part decide on the Dell or the but what i'm trying to say on your left column is your feedback how you justify the next table is to be touching the left, you can rsvp.
+
+676
+01:43:51.480 --> 01:43:52.770
+INSTRUCTOR: yeah you can but.
+
+677
+01:43:54.300 --> 01:43:56.670
+INSTRUCTOR: There is also different so never.
+
+678
+01:43:56.760 --> 01:43:57.900
+STUDENT 11: In a letter to join.
+
+679
+01:43:58.170 --> 01:43:59.220
+INSTRUCTOR: The less stable.
+
+680
+01:43:59.310 --> 01:44:07.230
+INSTRUCTOR: What whichever table you want is the one day, that is your base then you're right table is you are selectively.
+
+681
+01:44:08.310 --> 01:44:16.530
+INSTRUCTOR: Men your base with information for the right table based based on on this role conditioner.
+
+682
+01:44:17.580 --> 01:44:26.670
+INSTRUCTOR: So everything in your left emo will be available to you, so you know if I do our hitch be left out the join.
+
+683
+01:44:27.780 --> 01:44:28.590
+INSTRUCTOR: USB.
+
+684
+01:44:29.910 --> 01:44:33.930
+INSTRUCTOR: Let me remove this fictitious thing Michelle will not make sense right.
+
+685
+01:44:34.950 --> 01:44:45.390
+INSTRUCTOR: So now everything in my right in my left a bowl which is orange be shows up in my results right so Irish vs training Rosa of information, then see all three rocio.
+
+686
+01:44:47.790 --> 01:44:48.330
+INSTRUCTOR: That in.
+
+687
+01:44:53.880 --> 01:44:59.850
+INSTRUCTOR: Late, so why not the rules in our HP there's no pause bank account so there's No amount for Postbank here.
+
+688
+01:45:01.320 --> 01:45:02.430
+INSTRUCTOR: In the media meds.
+
+689
+01:45:03.510 --> 01:45:04.530
+INSTRUCTOR: Are HP.
+
+690
+01:45:06.330 --> 01:45:15.630
+INSTRUCTOR: Okay, so and I removed the ic number I just now so just not had posted bang and R ic.
+
+691
+01:45:17.970 --> 01:45:32.280
+INSTRUCTOR: notice that the nri see right is now here for the the rule of rfp that has no corresponding amount because i'm seeing that pull the NRA see from the Postbank people.
+
+692
+01:45:34.500 --> 01:45:43.650
+INSTRUCTOR: In this case, because there's no matching rule so nothing gets pulled So if I sit for the ice from the our hitch beatable then you'll see sure.
+
+693
+01:45:46.590 --> 01:45:49.680
+INSTRUCTOR: Because, in this case Irish be is the Left table.
+
+694
+01:45:50.700 --> 01:46:05.640
+INSTRUCTOR: right because we see Irish Irish be left out the joining posting so that's the Left table and the right table the Left tables, the one to the left of the left of the drawing keywords and the right people is the one to the right or the left or the right keywords.
+
+695
+01:46:08.370 --> 01:46:09.150
+STUDENT 11: and listen.
+
+696
+01:46:11.670 --> 01:46:20.250
+STUDENT 11: and listen, I have another practical experience right for the Milan, we don't put the banking industry, it really is a type of food so.
+
+697
+01:46:20.820 --> 01:46:39.840
+STUDENT 11: The same product darling So when I saw many custom will be in different food that range for that one for that for that so different under this tree top for that there are many customers that have revenue given me they have buy our products, so now on the mush the customer.
+
+698
+01:46:41.670 --> 01:46:51.960
+STUDENT 11: To think on my bike to also put up to up to them faster than coming by by one, so how to how am I going to Peter singer from from two different table and Matthew using the author john.
+
+699
+01:46:56.610 --> 01:46:57.360
+STUDENT 11: It can be.
+
+700
+01:46:57.480 --> 01:47:00.840
+STUDENT 11: Just one by one or production.
+
+701
+01:47:01.800 --> 01:47:05.670
+STUDENT 11: By or the truth, without so I wanted much in the one similarity but to see.
+
+702
+01:47:06.630 --> 01:47:15.210
+STUDENT 11: Who, I will be mikey day make yourself the minutes of the Buddha so well i'm kind of a mess you using the answer so.
+
+703
+01:47:15.690 --> 01:47:25.230
+INSTRUCTOR: There are a few ways to do that, you can also do you can use outer join if you have a master list of all your customers is an ID or some unit right, then, that can be.
+
+704
+01:47:25.710 --> 01:47:28.590
+STUDENT 11: That will be doing differently, but maybe for that one as.
+
+705
+01:47:29.790 --> 01:47:30.180
+STUDENT 11: well.
+
+706
+01:47:32.760 --> 01:47:35.850
+INSTRUCTOR: So what you can do right is this select distinct.
+
+707
+01:47:37.200 --> 01:47:42.480
+INSTRUCTOR: Right now, when I select this example, so you can do it select distinct.
+
+708
+01:47:43.800 --> 01:47:57.630
+INSTRUCTOR: yeah they meet you for jack so there's some noise right back on, so what you can do is you can select this thing from one customer this so distinct ID Union all.
+
+709
+01:47:58.260 --> 01:48:13.860
+INSTRUCTOR: You know our Union select distinct from the next one unions like distinct from that one and that will create a master list of all the unique ids or the new Judy customers, then use that as a base and he can live out the drain the different tables, I mean that's when we laugh.
+
+710
+01:48:15.840 --> 01:48:19.110
+INSTRUCTOR: So I hope yeah.
+
+711
+01:48:20.070 --> 01:48:22.440
+STUDENT 11: there's nothing that I need to Union.
+
+712
+01:48:25.350 --> 01:48:29.190
+INSTRUCTOR: They can get into all your so yeah so you can get in all the tables are.
+
+713
+01:48:29.400 --> 01:48:29.880
+Okay.
+
+714
+01:48:31.170 --> 01:48:32.010
+INSTRUCTOR: But you only.
+
+715
+01:48:32.370 --> 01:48:33.420
+INSTRUCTOR: The only thing that you're interested.
+
+716
+01:48:33.420 --> 01:48:37.140
+INSTRUCTOR: In each table is just the customer name or the customer.
+
+717
+01:48:38.490 --> 01:48:39.000
+STUDENT 11: ID yeah.
+
+718
+01:48:39.930 --> 01:48:40.260
+INSTRUCTOR: yeah.
+
+719
+01:48:40.320 --> 01:48:50.760
+STUDENT 11: So let me i'll say testimony So if I compare the customer screen if it's the same, then I will result in present in one room.
+
+720
+01:48:51.360 --> 01:48:52.740
+INSTRUCTOR: yeah yeah.
+
+721
+01:48:54.930 --> 01:48:58.110
+INSTRUCTOR: So so yeah I tried to do it myself apparently.
+
+722
+01:48:58.740 --> 01:48:59.430
+STUDENT 11: I said to you.
+
+723
+01:48:59.850 --> 01:49:00.720
+INSTRUCTOR: Okay, very good.
+
+724
+01:49:00.810 --> 01:49:02.790
+INSTRUCTOR: Okay, thank you, thanks good questions, thank you.
+
+725
+01:49:04.140 --> 01:49:06.090
+INSTRUCTOR: Okay, any other questions.
+
+726
+01:49:11.640 --> 01:49:13.770
+INSTRUCTOR: Okay, though, then we have.
+
+727
+01:49:14.790 --> 01:49:20.520
+INSTRUCTOR: right out to join just don't get left out the joint never right on the drain, so instead of flipping.
+
+728
+01:49:24.060 --> 01:49:25.020
+INSTRUCTOR: The tables.
+
+729
+01:49:33.750 --> 01:49:49.500
+INSTRUCTOR: Okay, so so flipping the tables around we can just see right and then now the right table is the base and then the Left table you take on information from the Left table where the condition is true.
+
+730
+01:50:00.480 --> 01:50:00.870
+INSTRUCTOR: So.
+
+731
+01:50:01.410 --> 01:50:15.120
+STUDENT 07: prophesied again as a question justin as soon as Jeff I just you giving one example that having a short we study, so if let's say I have a base report, just like the pure SP they have pure sb among.
+
+732
+01:50:15.930 --> 01:50:26.160
+STUDENT 07: there's the same report has a base, then, that the report, which is that I should be so usually it will be look up to look at our the amount for the best report.
+
+733
+01:50:26.550 --> 01:50:36.750
+STUDENT 07: So my supposed to treat one I have been impure has been a mom and I SDM on by the one to use the ISP a mom I need to use the ISP Mr for the second report.
+
+734
+01:50:39.390 --> 01:50:41.700
+INSTRUCTOR: Okay, so.
+
+735
+01:50:43.350 --> 01:50:49.680
+INSTRUCTOR: So you say I send you 212 columns that you want to replace one or the other, is it.
+
+736
+01:50:50.400 --> 01:51:04.920
+STUDENT 07: doesn't last in my bedroom or is it still always clean, so I need to point out a report to file the lesson is the bottom two so in the psp amount up USD data, the first to my habit among second.
+
+737
+01:51:05.430 --> 01:51:14.190
+STUDENT 07: Bottom to might not have the amar wishes, I need to get from another report, but then I repeat my has for for amount by the ones of us to a mom.
+
+738
+01:51:18.060 --> 01:51:18.330
+INSTRUCTOR: Okay.
+
+739
+01:51:21.300 --> 01:51:25.410
+INSTRUCTOR: Okay, so we Okay, so let me do this.
+
+740
+01:51:29.310 --> 01:51:32.910
+INSTRUCTOR: Let me just create a new column, so we have.
+
+741
+01:51:35.190 --> 01:51:38.220
+INSTRUCTOR: Right now, we have three columns right so.
+
+742
+01:51:39.420 --> 01:51:44.400
+INSTRUCTOR: let's create a fourth column so.
+
+743
+01:52:09.870 --> 01:52:10.590
+INSTRUCTOR: shouldn't do that.
+
+744
+01:52:56.190 --> 01:52:58.470
+INSTRUCTOR: So is this close to what you want.
+
+745
+01:52:59.640 --> 01:53:00.300
+INSTRUCTOR: So essentially.
+
+746
+01:53:00.780 --> 01:53:01.770
+STUDENT 07: thing is.
+
+747
+01:53:02.220 --> 01:53:11.670
+INSTRUCTOR: If this like this column is not now I mean there's no missing I do, then this is the correct this column from this table if it's.
+
+748
+01:53:12.720 --> 01:53:17.940
+INSTRUCTOR: If not now, then we use that information, otherwise we use the previous one.
+
+749
+01:53:18.990 --> 01:53:19.350
+Oh yeah.
+
+750
+01:53:21.180 --> 01:53:22.050
+STUDENT 07: Okay, thank you.
+
+751
+01:53:22.920 --> 01:53:26.130
+INSTRUCTOR: Okay, so this is an example of the case structure.
+
+752
+01:53:27.870 --> 01:53:39.030
+INSTRUCTOR: So case when some condition being true, it is true, then you return this value, otherwise you return some other value.
+
+753
+01:53:40.620 --> 01:53:51.930
+INSTRUCTOR: And then, so when you have a case when you must end it with the end and then this whole thing just returned to one value for Israel, and then we give it a column nima.
+
+754
+01:53:59.790 --> 01:54:00.000
+STUDENT 07: Thank you.
+
+755
+01:54:00.810 --> 01:54:01.260
+Okay.
+
+756
+01:54:04.620 --> 01:54:07.920
+INSTRUCTOR: Questions everyone else anyone else.
+
+757
+01:54:13.710 --> 01:54:14.160
+INSTRUCTOR: Okay.
+
+758
+01:54:15.600 --> 01:54:19.260
+INSTRUCTOR: So if you have questions, please jump in and just us yeah.
+
+759
+01:54:22.170 --> 01:54:22.560
+INSTRUCTOR: So.
+
+760
+01:54:23.760 --> 01:54:24.990
+INSTRUCTOR: aggregate functions.
+
+761
+01:54:26.280 --> 01:54:33.300
+INSTRUCTOR: There are many, many functions, so I I this just the common ones here so that you have.
+
+762
+01:54:34.050 --> 01:54:44.430
+INSTRUCTOR: Some familiarity with them, so, but you know you check the full documentation to see whether or not there's an aggregate function for whatever you need you know if if there is then great you know they can just use it.
+
+763
+01:54:45.600 --> 01:54:47.700
+INSTRUCTOR: If not, then you need to create one.
+
+764
+01:54:49.080 --> 01:54:50.910
+INSTRUCTOR: which may or may not be easy.
+
+765
+01:54:52.800 --> 01:54:57.270
+INSTRUCTOR: So, but most the time you can get away with using the standard aggregate functions.
+
+766
+01:54:58.740 --> 01:55:00.180
+INSTRUCTOR: and doing a bit of acrobatics now.
+
+767
+01:55:01.890 --> 01:55:09.000
+INSTRUCTOR: so rich, you know so within the group of rules that define your group, you know you compute the average.
+
+768
+01:55:11.010 --> 01:55:15.330
+INSTRUCTOR: You have it could be a column or could be, you know.
+
+769
+01:55:16.710 --> 01:55:18.750
+INSTRUCTOR: function of a column things in it.
+
+770
+01:55:20.820 --> 01:55:22.920
+INSTRUCTOR: returns, the number of rows.
+
+771
+01:55:24.930 --> 01:55:33.720
+INSTRUCTOR: If you do yeah see you then I can Okay, so we have this table right, so we know what this table looks like.
+
+772
+01:55:49.980 --> 01:55:50.820
+INSTRUCTOR: So.
+
+773
+01:55:52.590 --> 01:55:57.000
+INSTRUCTOR: Okay, so let's try a few variants of count.
+
+774
+01:56:05.910 --> 01:56:11.460
+INSTRUCTOR: The simplest one is count star star is actually a special version of count.
+
+775
+01:56:12.960 --> 01:56:22.620
+INSTRUCTOR: That is very, very fast, so if you are working with data sets with millions or 10s of millions of rows and stuff a day count star.
+
+776
+01:56:23.190 --> 01:56:43.320
+INSTRUCTOR: And you just want to know how many rooms, they are per group per whatever count star is why you don't do anything else Okay, so if you don't specify if you don't define what a group is the engine assumes that the entire table is a group so in this case, our entire table is this.
+
+777
+01:56:44.400 --> 01:56:47.730
+INSTRUCTOR: This table of essentially for.
+
+778
+01:56:49.530 --> 01:56:50.820
+INSTRUCTOR: Four rows okay.
+
+779
+01:56:54.180 --> 01:56:56.910
+INSTRUCTOR: Let me just take a picture of this and then.
+
+780
+01:57:05.370 --> 01:57:07.140
+INSTRUCTOR: Everyone can see.
+
+781
+01:57:19.980 --> 01:57:26.940
+INSTRUCTOR: Is our, I just wanted to make sure that we all know what the the table looks like so this temp table looks like this.
+
+782
+01:57:28.260 --> 01:57:29.670
+INSTRUCTOR: So I do count stuff.
+
+783
+01:57:30.990 --> 01:57:35.010
+INSTRUCTOR: yeah just keep me for okay right so far rose right.
+
+784
+01:57:37.140 --> 01:57:43.050
+INSTRUCTOR: What if I do count our hit should be amongst what happens.
+
+785
+01:57:46.770 --> 01:57:47.820
+INSTRUCTOR: What do you think what we said.
+
+786
+01:57:50.460 --> 01:57:52.290
+INSTRUCTOR: Yes, true.
+
+787
+01:57:54.030 --> 01:57:57.810
+INSTRUCTOR: Okay, so when you count a column name.
+
+788
+01:57:59.820 --> 01:58:07.350
+INSTRUCTOR: Like a column what you're doing is you're counting the number of non now values in the column.
+
+789
+01:58:09.330 --> 01:58:09.750
+INSTRUCTOR: Okay.
+
+790
+01:58:11.040 --> 01:58:13.560
+INSTRUCTOR: which is different from counting the number of rules in that group.
+
+791
+01:58:15.000 --> 01:58:21.660
+INSTRUCTOR: Right, so now, a company number number non now values for the column in the group, as opposed to just number of rules in a group.
+
+792
+01:58:24.480 --> 01:58:28.320
+INSTRUCTOR: So if I choose a column where there's no now let's see.
+
+793
+01:58:29.580 --> 01:58:31.080
+INSTRUCTOR: posting about.
+
+794
+01:58:32.880 --> 01:58:33.180
+INSTRUCTOR: Okay.
+
+795
+01:58:34.890 --> 01:58:43.170
+INSTRUCTOR: Then they are for non now values in this column for this group, the whole table in this case so then it's just for.
+
+796
+01:58:46.080 --> 01:58:48.480
+INSTRUCTOR: So Questions about this.
+
+797
+01:58:57.870 --> 01:59:01.110
+INSTRUCTOR: Let me, let me change this a little bit now.
+
+798
+01:59:02.190 --> 01:59:03.660
+INSTRUCTOR: So let's see.
+
+799
+01:59:06.240 --> 01:59:07.470
+INSTRUCTOR: Yes.
+
+800
+01:59:24.240 --> 01:59:26.160
+INSTRUCTOR: So it rose right.
+
+801
+01:59:28.020 --> 01:59:28.920
+INSTRUCTOR: To this.
+
+802
+01:59:57.120 --> 01:59:58.110
+INSTRUCTOR: This.
+
+803
+02:00:15.060 --> 02:00:18.030
+INSTRUCTOR: So now we have this table right, so this is our.
+
+804
+02:00:19.050 --> 02:00:19.980
+INSTRUCTOR: Results table.
+
+805
+02:00:21.600 --> 02:00:23.340
+INSTRUCTOR: So first question.
+
+806
+02:00:26.610 --> 02:00:27.510
+INSTRUCTOR: What does this free thing.
+
+807
+02:00:31.680 --> 02:00:32.220
+INSTRUCTOR: That comes.
+
+808
+02:00:33.690 --> 02:00:35.700
+INSTRUCTOR: From this this table.
+
+809
+02:00:39.000 --> 02:00:40.530
+INSTRUCTOR: But the other thing he returns.
+
+810
+02:00:52.710 --> 02:00:59.400
+INSTRUCTOR: So almost everyone says it, I think I saw the name, I think, maybe this content.
+
+811
+02:01:01.440 --> 02:01:02.940
+INSTRUCTOR: It okay.
+
+812
+02:01:11.010 --> 02:01:13.110
+INSTRUCTOR: Okay, how about counting ric.
+
+813
+02:01:16.650 --> 02:01:18.900
+INSTRUCTOR: What does this return it.
+
+814
+02:01:25.080 --> 02:01:28.620
+INSTRUCTOR: How distinct and R ic what does this return.
+
+815
+02:01:34.860 --> 02:01:35.280
+INSTRUCTOR: Okay.
+
+816
+02:01:39.120 --> 02:01:47.670
+INSTRUCTOR: So So you see the different ways use counts right so counts column name counting distinct column name yeah.
+
+817
+02:01:48.990 --> 02:01:58.950
+INSTRUCTOR: If you specify more than one column name, you can then it looks for look at the whole combination and accountant distinct versions of it okay.
+
+818
+02:02:06.360 --> 02:02:08.610
+INSTRUCTOR: So good content.
+
+819
+02:02:09.780 --> 02:02:12.750
+INSTRUCTOR: Good content it's fun so.
+
+820
+02:02:15.450 --> 02:02:16.830
+INSTRUCTOR: You something.
+
+821
+02:02:23.190 --> 02:02:29.100
+INSTRUCTOR: This 3000 rows so let's see we won and.
+
+822
+02:02:34.440 --> 02:02:34.950
+lost.
+
+823
+02:03:09.270 --> 02:03:10.020
+INSTRUCTOR: So.
+
+824
+02:03:11.580 --> 02:03:12.480
+INSTRUCTOR: let's see.
+
+825
+02:03:14.490 --> 02:03:16.080
+INSTRUCTOR: let's avoid.
+
+826
+02:03:19.080 --> 02:03:26.730
+INSTRUCTOR: i'm just doing this, so that the results table doesn't look too crazy law and scripted and.
+
+827
+02:03:27.930 --> 02:03:28.440
+form.
+
+828
+02:03:35.790 --> 02:03:42.930
+INSTRUCTOR: So we can do something called group on campus easier to show them to experience.
+
+829
+02:03:48.630 --> 02:03:49.500
+INSTRUCTOR: Forget what's.
+
+830
+02:04:10.620 --> 02:04:19.440
+INSTRUCTOR: What group does is that for each group, it will concatenate means no string together.
+
+831
+02:04:21.450 --> 02:04:22.830
+INSTRUCTOR: In one line.
+
+832
+02:04:24.300 --> 02:04:27.150
+INSTRUCTOR: The values of whichever column yeah.
+
+833
+02:05:00.780 --> 02:05:01.260
+INSTRUCTOR: Okay.
+
+834
+02:05:04.170 --> 02:05:05.850
+INSTRUCTOR: Any questions about group content.
+
+835
+02:05:17.340 --> 02:05:18.330
+INSTRUCTOR: If not, then.
+
+836
+02:05:19.620 --> 02:05:22.590
+INSTRUCTOR: Let me try to address this.
+
+837
+02:05:22.590 --> 02:05:24.000
+STUDENT 11: question I.
+
+838
+02:05:24.090 --> 02:05:24.840
+INSTRUCTOR: Oh yes, yes.
+
+839
+02:05:29.070 --> 02:05:32.640
+STUDENT 11: To be like something that we tend to dream right TIM certain.
+
+840
+02:05:34.200 --> 02:05:36.720
+STUDENT 11: something and then it's easy, this is a mini.
+
+841
+02:05:37.260 --> 02:05:37.860
+INSTRUCTOR: No, no, no.
+
+842
+02:05:38.100 --> 02:05:38.700
+INSTRUCTOR: So.
+
+843
+02:05:38.760 --> 02:05:40.080
+INSTRUCTOR: This is good content right.
+
+844
+02:05:40.590 --> 02:05:42.690
+INSTRUCTOR: You say she just depends.
+
+845
+02:05:44.820 --> 02:05:48.390
+INSTRUCTOR: All the values together into one into one string.
+
+846
+02:05:49.530 --> 02:05:59.640
+INSTRUCTOR: So, by default, uses commerce to separate the values from each other so because, for each of these groups, you have a different number of households.
+
+847
+02:06:00.540 --> 02:06:08.940
+INSTRUCTOR: So there are six households that have five cats and then these are the household ID for those six households, there are five households that six kids.
+
+848
+02:06:08.970 --> 02:06:11.460
+INSTRUCTOR: And these are the five house or ideas for those houses.
+
+849
+02:06:11.520 --> 02:06:13.590
+INSTRUCTOR: there's only one house oh seven kits for this.
+
+850
+02:06:14.610 --> 02:06:14.880
+INSTRUCTOR: one.
+
+851
+02:06:16.110 --> 02:06:21.810
+INSTRUCTOR: And then they'll need to outsource it gets in every parts to it obviously separates the values of a comma.
+
+852
+02:06:22.530 --> 02:06:23.220
+Oh.
+
+853
+02:06:24.540 --> 02:06:24.990
+INSTRUCTOR: Okay.
+
+854
+02:06:28.020 --> 02:06:30.690
+INSTRUCTOR: He said to concatenate and create the line.
+
+855
+02:06:33.780 --> 02:06:36.420
+INSTRUCTOR: Well, this is the first time i've asked this question.
+
+856
+02:06:38.160 --> 02:06:40.050
+STUDENT 07: I just a specific today's.
+
+857
+02:06:40.710 --> 02:06:47.430
+STUDENT 07: been a few in the phone so they educate the sku in one string this comic comic con me.
+
+858
+02:06:47.490 --> 02:06:52.350
+STUDENT 07: Where we need to analyze business skill right, we need to break down to 69 cents for.
+
+859
+02:06:52.470 --> 02:06:53.280
+STUDENT 07: Each of the common.
+
+860
+02:06:54.120 --> 02:06:59.370
+INSTRUCTOR: Okay, so my My answer is are using language.
+
+861
+02:07:00.690 --> 02:07:00.960
+STUDENT 07: Okay.
+
+862
+02:07:02.700 --> 02:07:07.470
+INSTRUCTOR: Nothing it's not it's not possible it's just i've never done it before about media is possible.
+
+863
+02:07:10.110 --> 02:07:15.630
+INSTRUCTOR: it's easy to do in in other languages that so there's obviously a split function in other languages.
+
+864
+02:07:15.780 --> 02:07:25.110
+INSTRUCTOR: string splitting equivalent yeah yeah yeah, so we will talk about it in the costs but yes good question and very interesting casino, and you think about it, thank you.
+
+865
+02:07:25.860 --> 02:07:26.310
+STUDENT 07: Thank you.
+
+866
+02:07:28.410 --> 02:07:28.860
+INSTRUCTOR: Okay.
+
+867
+02:07:28.920 --> 02:07:29.550
+So.
+
+868
+02:07:31.140 --> 02:07:31.920
+INSTRUCTOR: Let me.
+
+869
+02:07:33.330 --> 02:07:34.080
+INSTRUCTOR: Where was it.
+
+870
+02:07:35.460 --> 02:07:36.240
+INSTRUCTOR: one.
+
+871
+02:07:40.980 --> 02:07:43.710
+INSTRUCTOR: This one Okay, so we had this table.
+
+872
+02:07:44.880 --> 02:07:45.630
+INSTRUCTOR: This table.
+
+873
+02:07:50.190 --> 02:07:52.920
+INSTRUCTOR: which was this this.
+
+874
+02:07:54.750 --> 02:07:57.720
+INSTRUCTOR: Right, I think this is the correct the boy.
+
+875
+02:07:58.890 --> 02:08:01.350
+INSTRUCTOR: I hope this table yeah I think so.
+
+876
+02:08:02.670 --> 02:08:04.350
+INSTRUCTOR: Okay, so if.
+
+877
+02:08:05.580 --> 02:08:06.810
+INSTRUCTOR: I go.
+
+878
+02:08:07.980 --> 02:08:10.410
+INSTRUCTOR: amount it should be too right.
+
+879
+02:08:11.640 --> 02:08:16.980
+INSTRUCTOR: So I think there's a question in the chat about if you want to report many different versions of this.
+
+880
+02:08:26.490 --> 02:08:32.550
+INSTRUCTOR: Then you can just specify them as different columns on the same, I mean the same query.
+
+881
+02:08:37.260 --> 02:08:38.400
+INSTRUCTOR: called star.
+
+882
+02:08:44.310 --> 02:08:44.610
+Okay.
+
+883
+02:08:47.460 --> 02:08:47.880
+INSTRUCTOR: All right.
+
+884
+02:08:50.400 --> 02:09:00.660
+INSTRUCTOR: Okay, so maximum minimum values within the group standard deviation some variants yeah so very difficult things.
+
+885
+02:09:01.890 --> 02:09:08.490
+INSTRUCTOR: There is something missing from sql that is usually found in most.
+
+886
+02:09:10.110 --> 02:09:14.580
+INSTRUCTOR: programming languages that give you some statistics so which is median.
+
+887
+02:09:15.870 --> 02:09:21.180
+INSTRUCTOR: Yes, median Thank you James so median is missing from seo okay.
+
+888
+02:09:24.390 --> 02:09:31.560
+INSTRUCTOR: You can create one function to do media in sql if you really wanted to but generally people just don't bother.
+
+889
+02:09:32.220 --> 02:09:39.540
+INSTRUCTOR: you're just reading the data into our or Python or something and then just use the built in media and function within our or Python.
+
+890
+02:09:40.080 --> 02:09:48.870
+INSTRUCTOR: Because you know that you know that has been checked and will work in all cases right if you create and medium function, there could be some special case some.
+
+891
+02:09:51.690 --> 02:09:56.760
+INSTRUCTOR: anomalous cases that your function returns something ridiculous right.
+
+892
+02:09:57.780 --> 02:10:03.330
+INSTRUCTOR: So it's obviously for to use the built in functions and not Korea or if if possible yeah.
+
+893
+02:10:03.900 --> 02:10:10.140
+INSTRUCTOR: So always read the documentation Google, you know try find out has this already been written right is this part of the language is it.
+
+894
+02:10:10.770 --> 02:10:24.450
+INSTRUCTOR: package that you need to install right, and then you can make use off as opposed to spending the time to build it from scratch and it's not a simple function that you need to test your many different cases, you should if it's.
+
+895
+02:10:26.130 --> 02:10:31.200
+INSTRUCTOR: Do something sensible, you know in right so.
+
+896
+02:10:32.520 --> 02:10:32.820
+Okay.
+
+897
+02:10:34.110 --> 02:10:39.000
+INSTRUCTOR: So I think I have an example about how to use it average yeah.
+
+898
+02:10:44.220 --> 02:10:53.370
+INSTRUCTOR: So let me go through this example because I think it's different be slightly different from what you see Okay, so this example.
+
+899
+02:10:56.460 --> 02:10:57.330
+INSTRUCTOR: So this is.
+
+900
+02:10:58.830 --> 02:11:00.270
+INSTRUCTOR: yeah let me do this.
+
+901
+02:11:19.020 --> 02:11:20.910
+INSTRUCTOR: From previous.
+
+902
+02:11:26.340 --> 02:11:27.810
+INSTRUCTOR: Okay, so.
+
+903
+02:11:30.060 --> 02:11:44.370
+INSTRUCTOR: First of all, notice that this is not a bad column by an expression using values in a column yeah so i'm doing a comparison between each value.
+
+904
+02:11:45.420 --> 02:11:50.520
+INSTRUCTOR: Each value appellants i'm comparing it to 250,000.
+
+905
+02:11:51.630 --> 02:11:55.470
+INSTRUCTOR: If it exceeds 250,000 then it's true.
+
+906
+02:11:56.700 --> 02:12:03.150
+INSTRUCTOR: logical true so if something is true is expressed as a one in the German.
+
+907
+02:12:04.170 --> 02:12:14.220
+INSTRUCTOR: If it doesn't exceed 250,000 is less than or equal to 30,000 it's false and logical false is expresses zero yeah.
+
+908
+02:12:15.930 --> 02:12:23.100
+INSTRUCTOR: So I now have a column of ones and zeros and then information associated with each of these.
+
+909
+02:12:24.210 --> 02:12:25.650
+INSTRUCTOR: So what can I do with this.
+
+910
+02:12:28.530 --> 02:12:29.160
+INSTRUCTOR: So.
+
+911
+02:12:30.180 --> 02:12:31.020
+INSTRUCTOR: I can.
+
+912
+02:12:35.580 --> 02:12:36.870
+INSTRUCTOR: I can group by.
+
+913
+02:12:38.550 --> 02:12:42.750
+INSTRUCTOR: column, I like this column ones and zeros.
+
+914
+02:12:43.860 --> 02:12:50.490
+INSTRUCTOR: So remember a group is defined as a unique value of the of the grouping column.
+
+915
+02:12:52.560 --> 02:12:53.400
+INSTRUCTOR: So.
+
+916
+02:12:54.420 --> 02:13:07.710
+INSTRUCTOR: All rules that share the same value of the grouping column belong in the same group so in this case, the first and fourth row will be powerful group Middleton was be part of another group.
+
+917
+02:13:08.880 --> 02:13:10.920
+INSTRUCTOR: So what do I report for each group.
+
+918
+02:13:12.480 --> 02:13:15.840
+INSTRUCTOR: This case I report average balance.
+
+919
+02:13:20.040 --> 02:13:33.240
+INSTRUCTOR: So, and what it does, is it takes the average of each of them, so I can do some balance so sm together right, I can do men balance.
+
+920
+02:13:34.800 --> 02:13:35.910
+INSTRUCTOR: Is the minimum value.
+
+921
+02:13:36.930 --> 02:13:43.770
+INSTRUCTOR: Similarly Max balance right, so I can reap all this, I can also do this, our other.
+
+922
+02:13:45.810 --> 02:13:46.410
+INSTRUCTOR: function.
+
+923
+02:13:49.980 --> 02:13:56.460
+INSTRUCTOR: If I want to keep track of ice numbers and I just chuck them all together in one in one field somewhere.
+
+924
+02:14:00.030 --> 02:14:11.040
+INSTRUCTOR: Okay, so so once again notice i'm using a shortcut I say goodbye, one that means the first column on my select line that's my grouping column.
+
+925
+02:14:30.270 --> 02:14:33.210
+INSTRUCTOR: digest and then questions asked questions.
+
+926
+02:15:05.280 --> 02:15:09.390
+STUDENT 07: see changed from dbs to people when I see.
+
+927
+02:15:12.060 --> 02:15:13.500
+INSTRUCTOR: Okay, so.
+
+928
+02:15:15.570 --> 02:15:25.410
+INSTRUCTOR: Because we're asking we're doing comparison operation right, so we had me, and then we bought the goodbye.
+
+929
+02:15:45.420 --> 02:15:57.930
+INSTRUCTOR: Oh, so we have balance and I see from the dbs table right, so any we have another column that says is asked the question is balance greater than 250 K.
+
+930
+02:15:59.400 --> 02:16:06.060
+INSTRUCTOR: So it is true, then sql will be part one for the room if it's false a report zero So you see.
+
+931
+02:16:07.920 --> 02:16:26.310
+INSTRUCTOR: So we are, we are creating a new column on the fly based on data from an existing column in this case that balance column So you see the balance color for this role 430 K is created 250 so come to one says 22 K will be zero at 4k 03 hundred K away.
+
+932
+02:16:28.230 --> 02:16:29.850
+INSTRUCTOR: that's how you create della okay.
+
+933
+02:16:30.510 --> 02:16:30.750
+INSTRUCTOR: Great.
+
+934
+02:16:31.440 --> 02:16:35.970
+STUDENT 07: So I think Russia from Rebecca to see where they can return to true for Cisco.
+
+935
+02:16:36.060 --> 02:16:36.510
+Yes.
+
+936
+02:16:38.160 --> 02:16:38.880
+INSTRUCTOR: So.
+
+937
+02:16:39.240 --> 02:16:40.020
+kiss.
+
+938
+02:16:42.810 --> 02:16:43.680
+INSTRUCTOR: Okay, so.
+
+939
+02:16:44.850 --> 02:16:48.360
+INSTRUCTOR: We can do the same version of keys wishes case when.
+
+940
+02:16:50.250 --> 02:16:52.230
+INSTRUCTOR: yeah then.
+
+941
+02:16:53.640 --> 02:16:56.700
+INSTRUCTOR: So case when balance is greater than you say true.
+
+942
+02:16:59.190 --> 02:17:02.640
+INSTRUCTOR: False and S.
+
+943
+02:17:04.200 --> 02:17:04.830
+INSTRUCTOR: Hypo.
+
+944
+02:17:08.910 --> 02:17:16.740
+INSTRUCTOR: So what is that we say true false who could be could change this to see Hypo.
+
+945
+02:17:19.440 --> 02:17:20.220
+INSTRUCTOR: Regular.
+
+946
+02:17:21.630 --> 02:17:22.470
+s.
+
+947
+02:17:23.520 --> 02:17:24.090
+segment.
+
+948
+02:17:26.760 --> 02:17:29.070
+INSTRUCTOR: So you can just specify anything you whether.
+
+949
+02:17:30.630 --> 02:17:37.050
+STUDENT 07: You ask the question is listed as well, and I see the balance to empty let's do a test you.
+
+950
+02:17:39.150 --> 02:17:42.240
+INSTRUCTOR: It is it what i've done is if.
+
+951
+02:17:43.650 --> 02:17:47.550
+STUDENT 07: I say that one seven a string I see.
+
+952
+02:17:48.030 --> 02:17:48.480
+Okay.
+
+953
+02:17:49.560 --> 02:17:51.180
+INSTRUCTOR: let's let's try to.
+
+954
+02:17:58.350 --> 02:18:02.310
+INSTRUCTOR: PBS to okay so.
+
+955
+02:18:06.780 --> 02:18:09.330
+INSTRUCTOR: DPS DPS to.
+
+956
+02:18:13.560 --> 02:18:13.740
+INSTRUCTOR: That.
+
+957
+02:18:16.590 --> 02:18:17.340
+INSTRUCTOR: Because.
+
+958
+02:18:18.420 --> 02:18:19.050
+INSTRUCTOR: Now.
+
+959
+02:18:40.710 --> 02:18:41.940
+INSTRUCTOR: What did I do wrong.
+
+960
+02:18:48.000 --> 02:18:49.230
+INSTRUCTOR: What did I do wrong.
+
+961
+02:18:51.360 --> 02:18:54.630
+INSTRUCTOR: zero is a problem here, no it's not a problem here.
+
+962
+02:19:00.750 --> 02:19:03.780
+INSTRUCTOR: The table, no, no.
+
+963
+02:19:09.060 --> 02:19:09.900
+INSTRUCTOR: Oh sorry.
+
+964
+02:19:11.280 --> 02:19:11.880
+INSTRUCTOR: Where.
+
+965
+02:19:13.110 --> 02:19:13.560
+INSTRUCTOR: Okay.
+
+966
+02:19:14.640 --> 02:19:15.480
+INSTRUCTOR: sorry about that.
+
+967
+02:19:19.830 --> 02:19:21.780
+INSTRUCTOR: Okay, so now what i'm going to know right.
+
+968
+02:19:23.400 --> 02:19:24.990
+INSTRUCTOR: So, and then.
+
+969
+02:19:29.640 --> 02:19:31.170
+INSTRUCTOR: Some thing.
+
+970
+02:19:32.640 --> 02:19:33.120
+yeah.
+
+971
+02:19:39.000 --> 02:19:40.230
+INSTRUCTOR: Oh sorry.
+
+972
+02:19:53.100 --> 02:19:55.980
+INSTRUCTOR: Ladies, I guess, it is now, then.
+
+973
+02:19:57.060 --> 02:19:58.230
+INSTRUCTOR: It cannot compute.
+
+974
+02:19:59.430 --> 02:20:05.730
+INSTRUCTOR: You cannot compute the weather is greater than the comparison operator right.
+
+975
+02:20:10.920 --> 02:20:18.360
+STUDENT 07: So in this case, we can just put a condition when network is good there then poof I can, if I care.
+
+976
+02:20:19.440 --> 02:20:21.690
+STUDENT 07: And blame.
+
+977
+02:20:24.600 --> 02:20:30.330
+INSTRUCTOR: Okay okay so so you want it robust for knowledge right so.
+
+978
+02:20:41.760 --> 02:20:42.240
+INSTRUCTOR: Maybe.
+
+979
+02:20:47.100 --> 02:20:48.900
+INSTRUCTOR: it's not now is no.
+
+980
+02:20:51.930 --> 02:20:58.440
+INSTRUCTOR: Yun in London, now the boat with Hypo or not not not not people that I bought.
+
+981
+02:20:59.550 --> 02:21:03.270
+STUDENT 07: should be sauce which is not graded and provide to do.
+
+982
+02:21:10.440 --> 02:21:11.040
+INSTRUCTOR: Okay.
+
+983
+02:21:12.360 --> 02:21:17.850
+INSTRUCTOR: Sorry, so the now people you want this to be 01.
+
+984
+02:21:18.780 --> 02:21:22.260
+INSTRUCTOR: Do zero so now be zero.
+
+985
+02:21:25.080 --> 02:21:25.380
+Okay.
+
+986
+02:21:27.900 --> 02:21:30.810
+INSTRUCTOR: So we can do this.
+
+987
+02:21:32.460 --> 02:21:34.260
+INSTRUCTOR: Then one.
+
+988
+02:21:35.580 --> 02:21:36.390
+INSTRUCTOR: When.
+
+989
+02:21:37.800 --> 02:21:37.980
+INSTRUCTOR: Net.
+
+990
+02:21:39.540 --> 02:21:41.160
+INSTRUCTOR: is now.
+
+991
+02:21:43.770 --> 02:21:46.680
+INSTRUCTOR: Zero l zero and.
+
+992
+02:21:58.020 --> 02:22:02.850
+INSTRUCTOR: So that's a little bit easier to see.
+
+993
+02:22:04.530 --> 02:22:05.280
+INSTRUCTOR: So.
+
+994
+02:22:21.810 --> 02:22:37.710
+INSTRUCTOR: So this whole thing is one column law, so we are defining our X X PR column, you know with this case structure, so the first condition is or the first thing we check is where they're not net worth is created in 2000 it is and why i'm.
+
+995
+02:22:39.060 --> 02:22:47.880
+INSTRUCTOR: Sharing check is whether or not is now is now let me see zero otherwise in all the cases vc zero.
+
+996
+02:22:51.210 --> 02:22:53.970
+INSTRUCTOR: And every end the key structure and every give it a name.
+
+997
+02:22:59.250 --> 02:22:59.730
+STUDENT 07: Thank you.
+
+998
+02:23:15.240 --> 02:23:19.410
+INSTRUCTOR: Oh, the dbs to table actually is a duplicate of the dds table.
+
+999
+02:23:20.580 --> 02:23:25.830
+INSTRUCTOR: So you could everything I did show you could just do with the dbs table yeah.
+
+1000
+02:23:30.090 --> 02:23:43.650
+INSTRUCTOR: So yeah so how I created this table was I said, create table dbs true, and then I have the select query select Hannah.
+
+1001
+02:23:48.990 --> 02:23:50.250
+INSTRUCTOR: So selects.
+
+1002
+02:24:04.620 --> 02:24:12.900
+INSTRUCTOR: Okay, so I use this I use this just to create the dbs to table, so you have a create table.
+
+1003
+02:24:14.430 --> 02:24:22.890
+INSTRUCTOR: In a table name that you are in front of the select query that you want, so instead of this, the results of this select query.
+
+1004
+02:24:24.150 --> 02:24:35.640
+INSTRUCTOR: appearing in the results table, you know, in your in your query window, you will be checked into a new table called dbs in this case yeah.
+
+1005
+02:24:46.920 --> 02:24:48.270
+INSTRUCTOR: Any other questions about this.
+
+1006
+02:24:59.370 --> 02:25:00.510
+INSTRUCTOR: OK, so now.
+
+1007
+02:25:02.160 --> 02:25:05.430
+INSTRUCTOR: i'd like you to try to do this.
+
+1008
+02:25:10.380 --> 02:25:14.850
+INSTRUCTOR: So from the sauce and it's called DEMO table that three columns.
+
+1009
+02:25:15.900 --> 02:25:29.400
+INSTRUCTOR: That you should focus on above catch them adopt and an income right and it's a, so this is what they look like in terms of the structure the table structure so.
+
+1010
+02:25:31.680 --> 02:25:33.030
+INSTRUCTOR: So try to answer this question.
+
+1011
+02:29:04.470 --> 02:29:09.240
+INSTRUCTOR: If you haven't figured it out, please put some emoticon.
+
+1012
+02:29:11.940 --> 02:29:15.000
+INSTRUCTOR: Heaven if you haven't figured it out, but if you have feedback.
+
+1013
+02:29:29.250 --> 02:29:29.820
+INSTRUCTOR: People.
+
+1014
+02:29:45.960 --> 02:29:46.410
+hey.
+
+1015
+02:29:48.180 --> 02:29:50.850
+INSTRUCTOR: Can you didn't put a crying face okay.
+
+1016
+02:29:51.900 --> 02:29:56.520
+INSTRUCTOR: So that's true so actually you can do another show yeah.
+
+1017
+02:29:59.010 --> 02:30:00.000
+INSTRUCTOR: So what do we have.
+
+1018
+02:30:01.710 --> 02:30:02.910
+INSTRUCTOR: We have income.
+
+1019
+02:30:09.990 --> 02:30:11.190
+INSTRUCTOR: Right, so we have all this.
+
+1020
+02:30:14.460 --> 02:30:14.850
+say.
+
+1021
+02:30:16.500 --> 02:30:20.910
+INSTRUCTOR: So what you need what you want, if.
+
+1022
+02:30:21.930 --> 02:30:47.220
+INSTRUCTOR: You want to define two groups right you want to partition your table into two two different subsets that are segments, so one segment people households that are below or equal to the average income bracket and another segment house was the above average income bracket right so.
+
+1023
+02:30:48.480 --> 02:30:57.660
+INSTRUCTOR: What you need to know, essentially, besides the end Doc and K, is whether the income is greater than average income.
+
+1024
+02:30:59.490 --> 02:31:01.470
+INSTRUCTOR: About we don't have everything come here.
+
+1025
+02:31:02.580 --> 02:31:04.590
+INSTRUCTOR: Right So how do we do this.
+
+1026
+02:31:05.940 --> 02:31:19.260
+INSTRUCTOR: So, if only we had an average income column in addition to our income and can end up column, then we could solve it right, so if we had if we had all this, we could solve it.
+
+1027
+02:31:20.340 --> 02:31:25.110
+INSTRUCTOR: So how do we do this, so we say why don't we create the average income color.
+
+1028
+02:31:27.570 --> 02:31:29.340
+INSTRUCTOR: So we asked.
+
+1029
+02:31:38.880 --> 02:31:42.150
+INSTRUCTOR: If we do this gives us everything coming.
+
+1030
+02:31:51.390 --> 02:31:59.760
+INSTRUCTOR: So we can create a new table that contains just a single value for everything come.
+
+1031
+02:32:03.300 --> 02:32:06.810
+INSTRUCTOR: So, and we query from the stapler.
+
+1032
+02:32:10.620 --> 02:32:38.550
+INSTRUCTOR: Right, we need data or do we need, we still need end CAP end up Enda income value for each row in our single source table right single source DEMO table so on our from line we select our table a only contains a single value call average income, and we also.
+
+1033
+02:32:40.260 --> 02:32:42.270
+INSTRUCTOR: select from the single source DEMO tape low.
+
+1034
+02:32:43.560 --> 02:32:49.890
+INSTRUCTOR: So in this specific case and in cases similar to this, you do not need.
+
+1035
+02:32:51.000 --> 02:33:03.450
+INSTRUCTOR: To specify the relationship between rules in one table with rules in another table, because if you think about it, logically, the average income value.
+
+1036
+02:33:04.740 --> 02:33:06.660
+INSTRUCTOR: should apply to all households.
+
+1037
+02:33:08.220 --> 02:33:14.880
+INSTRUCTOR: So it will just tag on average income as a new column, to the single source DEMO right.
+
+1038
+02:33:18.210 --> 02:33:18.960
+INSTRUCTOR: Now.
+
+1039
+02:33:24.420 --> 02:33:25.260
+INSTRUCTOR: We have.
+
+1040
+02:33:31.230 --> 02:33:31.920
+INSTRUCTOR: Income.
+
+1041
+02:33:33.780 --> 02:33:37.560
+INSTRUCTOR: created an average income, so this is our grouping.
+
+1042
+02:33:44.670 --> 02:33:46.500
+INSTRUCTOR: So this defines our group.
+
+1043
+02:33:48.300 --> 02:33:57.150
+INSTRUCTOR: It is created an average income, it will be one it is less than or equal to average income you'll be zero yeah.
+
+1044
+02:33:58.620 --> 02:34:07.650
+INSTRUCTOR: And then, what do we want, we want to return the average number of cats and dogs.
+
+1045
+02:34:20.850 --> 02:34:21.450
+INSTRUCTOR: y'all get it.
+
+1046
+02:34:47.820 --> 02:34:48.360
+INSTRUCTOR: Let me.
+
+1047
+02:34:50.820 --> 02:34:56.640
+INSTRUCTOR: just go roll back one step, just so that everyone knows what's happening.
+
+1048
+02:34:59.430 --> 02:35:03.210
+INSTRUCTOR: So at this point where i'm pulling from two tables.
+
+1049
+02:35:04.890 --> 02:35:07.050
+INSTRUCTOR: This is what it looks like.
+
+1050
+02:35:08.160 --> 02:35:09.750
+INSTRUCTOR: So you have the original.
+
+1051
+02:35:10.830 --> 02:35:14.670
+INSTRUCTOR: single source DEMO table, and you have an average income call them.
+
+1052
+02:35:15.840 --> 02:35:23.970
+INSTRUCTOR: back to the single source DEMO table, so this is 3189 rules there's a same number of rules as a single single source DEMO.
+
+1053
+02:35:25.260 --> 02:35:25.710
+INSTRUCTOR: yeah.
+
+1054
+02:35:33.060 --> 02:35:35.640
+INSTRUCTOR: Everyone understand why is the same number of rows.
+
+1055
+02:35:43.980 --> 02:35:48.180
+INSTRUCTOR: So so because we have access to all this information.
+
+1056
+02:35:49.410 --> 02:35:52.110
+INSTRUCTOR: Then we can just.
+
+1057
+02:35:53.640 --> 02:35:57.210
+INSTRUCTOR: Ask the question whether or not income is created, and everything come.
+
+1058
+02:35:58.830 --> 02:36:00.600
+INSTRUCTOR: Every fish and Cat and.
+
+1059
+02:36:05.580 --> 02:36:07.110
+INSTRUCTOR: Then we could buy.
+
+1060
+02:36:14.040 --> 02:36:21.150
+INSTRUCTOR: So average can be you can do a manual average by adding.
+
+1061
+02:36:25.650 --> 02:36:26.640
+INSTRUCTOR: And dividing.
+
+1062
+02:37:17.610 --> 02:37:18.900
+INSTRUCTOR: Any questions for this.
+
+1063
+02:37:47.220 --> 02:37:54.750
+STUDENT 12: i'm sorry what is seo line from select any so I can see the end result as a in your table.
+
+1064
+02:37:56.310 --> 02:37:56.850
+INSTRUCTOR: Okay.
+
+1065
+02:37:57.600 --> 02:38:01.260
+INSTRUCTOR: So when we are creating a table on the fly.
+
+1066
+02:38:03.690 --> 02:38:21.750
+INSTRUCTOR: Because we're not creating it like explicitly creating a new table right so we're just doing this selected returns some values I put a bracket around it and I get treated as if this is a real table, but to treat it as is a real table on the from nine I need to give it a name.
+
+1067
+02:38:23.430 --> 02:38:29.070
+INSTRUCTOR: So I put as a table ALA I can call it anything I want 10 la.
+
+1068
+02:38:30.090 --> 02:38:32.220
+INSTRUCTOR: No it'll still work yeah.
+
+1069
+02:38:33.420 --> 02:38:43.350
+INSTRUCTOR: Because like if the point of giving it a name sorry oops yeah the point of giving it a name is that when you refer to a column here.
+
+1070
+02:38:44.370 --> 02:38:45.180
+INSTRUCTOR: I can see.
+
+1071
+02:38:46.260 --> 02:39:04.260
+INSTRUCTOR: Irish income column from table in this case, because I call the table, so why is this necessary well because what is necessary if you're using the from line, but why is important, imagine, I created originally come in, I call the income.
+
+1072
+02:39:05.520 --> 02:39:14.010
+INSTRUCTOR: Then now by table he has income column amazing so as demos income column right so now, I need to be very specific specific.
+
+1073
+02:39:20.880 --> 02:39:33.210
+INSTRUCTOR: Is the same thing, because the data didn't change at this stage names yeah so so even this it is cumbersome if you keep referring to you don't keep typing single source DEMO out, you can give it a name.
+
+1074
+02:39:34.200 --> 02:39:38.280
+STUDENT 12: But I would not be able to see the name of the whole table the E.
+
+1075
+02:39:39.150 --> 02:39:40.200
+INSTRUCTOR: mini the results, the bar.
+
+1076
+02:39:40.530 --> 02:39:44.550
+INSTRUCTOR: yeah yeah it went up you just you know just show you just showed that.
+
+1077
+02:39:47.310 --> 02:39:52.140
+INSTRUCTOR: yeah if I do the income here, you should just sit income.
+
+1078
+02:39:53.850 --> 02:39:55.770
+INSTRUCTOR: Because I could I cannot just do a bit.
+
+1079
+02:39:56.670 --> 02:39:59.670
+INSTRUCTOR: Sorry, but yeah you'll just say income is.
+
+1080
+02:40:01.230 --> 02:40:02.100
+INSTRUCTOR: Just fun.
+
+1081
+02:40:14.370 --> 02:40:22.950
+INSTRUCTOR: So, but the naming of the table is necessary if you do like in $90 like a like.
+
+1082
+02:40:24.360 --> 02:40:31.920
+INSTRUCTOR: A nasty query and using the results of that query as this as if it's a table, so you need to give it a name if it's on the front line.
+
+1083
+02:40:32.670 --> 02:40:34.140
+STUDENT 12: Okay next.
+
+1084
+02:40:34.260 --> 02:40:34.560
+Okay.
+
+1085
+02:40:35.700 --> 02:40:36.810
+INSTRUCTOR: there's another way.
+
+1086
+02:40:36.870 --> 02:40:37.680
+INSTRUCTOR: To do this.
+
+1087
+02:40:39.150 --> 02:40:42.150
+INSTRUCTOR: which I don't like but y'all can do if you want.
+
+1088
+02:40:43.350 --> 02:40:54.480
+INSTRUCTOR: Because I don't like because I I don't understand I don't fully understand or appreciate it implications, when it comes to a huge data set again, so I show you so this thing here.
+
+1089
+02:40:55.530 --> 02:40:59.430
+INSTRUCTOR: yeah this whole thing actually you don't need to be under from like.
+
+1090
+02:41:06.960 --> 02:41:10.950
+INSTRUCTOR: simplify this you don't need to do all this just answer the question.
+
+1091
+02:41:26.070 --> 02:41:38.040
+INSTRUCTOR: Okay, so instead of computing this as an ester query and putting under from line I can do this in line here on the.
+
+1092
+02:41:39.240 --> 02:41:47.250
+INSTRUCTOR: On the on the part of the select statement that deals with the columns right so i'm creating a column value on the go.
+
+1093
+02:41:48.600 --> 02:41:52.050
+INSTRUCTOR: yeah so this also works.
+
+1094
+02:41:53.280 --> 02:42:02.520
+INSTRUCTOR: So, but my what I have not figured out and why I avoid doing this is good, a do this for every role.
+
+1095
+02:42:03.660 --> 02:42:06.810
+INSTRUCTOR: or do they do this one's in jenna.
+
+1096
+02:42:07.980 --> 02:42:16.950
+INSTRUCTOR: For you know for the query it did it is for every rule, then my single source demos 3000 rows so they're doing they're executing this 3000 times.
+
+1097
+02:42:18.210 --> 02:42:23.220
+INSTRUCTOR: Recently, and I put on the front line I know it gets executed only once yeah.
+
+1098
+02:42:28.260 --> 02:42:35.670
+INSTRUCTOR: So so but I just want you all to know that this is possible, as well yeah and y'all can experiment, so if you have a.
+
+1099
+02:42:36.840 --> 02:42:42.720
+INSTRUCTOR: If you have a database with millions of rows right, and then you do this at any time in and see how long it takes.
+
+1100
+02:42:43.050 --> 02:42:54.030
+INSTRUCTOR: And whether or not it's any different from putting it on the from line, it is no different than let me know, and I know that it's also about it, I think all these years i'd be just putting at it from like okay so but yeah just.
+
+1101
+02:42:55.290 --> 02:42:59.220
+INSTRUCTOR: good to know that these things are possible, and this is only possible because.
+
+1102
+02:43:00.900 --> 02:43:08.700
+INSTRUCTOR: This whole thing returns, a single value yeah then it makes sense right.
+
+1103
+02:43:33.840 --> 02:43:34.260
+INSTRUCTOR: Okay.
+
+1104
+02:43:37.950 --> 02:43:39.030
+INSTRUCTOR: more questions.
+
+1105
+02:43:51.690 --> 02:43:55.500
+INSTRUCTOR: So a very good questions everyone, I think.
+
+1106
+02:43:57.210 --> 02:44:01.440
+INSTRUCTOR: it's very useful to clarify anything that you are unsure about.
+
+1107
+02:44:08.430 --> 02:44:09.000
+INSTRUCTOR: Okay.
+
+1108
+02:44:10.710 --> 02:44:11.040
+INSTRUCTOR: I think.
+
+1109
+02:44:12.450 --> 02:44:13.350
+INSTRUCTOR: we'll stop here.
+
+1110
+02:44:14.670 --> 02:44:15.570
+INSTRUCTOR: Take a picture.
+
+1111
+02:44:37.830 --> 02:44:38.820
+INSTRUCTOR: Okay, so.
+
+1112
+02:44:40.560 --> 02:44:45.990
+INSTRUCTOR: You got your cameras on if you can turn on the cameras are just a few seconds, we can take a picture.
+
+1113
+02:44:47.010 --> 02:44:48.570
+INSTRUCTOR: Okay huh.
+
+1114
+02:45:01.980 --> 02:45:02.280
+INSTRUCTOR: A.
+
+1115
+02:45:03.300 --> 02:45:04.260
+INSTRUCTOR: Few people.
+
+1116
+02:45:08.010 --> 02:45:12.390
+INSTRUCTOR: going to count down from 10 of the y'all can turn on their cameras.
+
+1117
+02:45:17.010 --> 02:45:17.610
+INSTRUCTOR: A.
+
+1118
+02:45:18.750 --> 02:45:22.050
+INSTRUCTOR: 7654.
+
+1119
+02:45:23.970 --> 02:45:26.640
+INSTRUCTOR: Okay smile for the camera.
+
+1120
+02:45:32.790 --> 02:45:36.960
+INSTRUCTOR: Okay try it one more time 123 style.
+
+1121
+02:45:43.380 --> 02:45:47.250
+INSTRUCTOR: Okay, I think we are good okay.
+
+1122
+02:45:49.680 --> 02:45:52.230
+INSTRUCTOR: So one question but to me how should we approach it.
+
+1123
+02:45:57.510 --> 02:45:58.440
+INSTRUCTOR: focus.
+
+1124
+02:46:00.990 --> 02:46:01.530
+INSTRUCTOR: me read it.
+
+1125
+02:46:06.630 --> 02:46:07.650
+INSTRUCTOR: To me.
+
+1126
+02:46:21.990 --> 02:46:24.210
+INSTRUCTOR: So James asking about the CME.
+
+1127
+02:47:03.300 --> 02:47:03.810
+INSTRUCTOR: Okay, so.
+
+1128
+02:47:05.520 --> 02:47:07.980
+INSTRUCTOR: A couple of things for the key me.
+
+1129
+02:47:16.290 --> 02:47:19.470
+INSTRUCTOR: Make sure we referring to the same version that you're have.
+
+1130
+02:48:01.350 --> 02:48:02.700
+INSTRUCTOR: Okay, so.
+
+1131
+02:48:20.190 --> 02:48:21.570
+INSTRUCTOR: Thanks.
+
+1132
+02:48:46.920 --> 02:48:47.880
+INSTRUCTOR: So this is today's.
+
+1133
+02:48:49.200 --> 02:48:53.010
+INSTRUCTOR: The end up to this deck right after this okay.
+
+1134
+02:48:54.240 --> 02:48:55.230
+INSTRUCTOR: So there's a section.
+
+1135
+02:48:57.390 --> 02:49:01.560
+INSTRUCTOR: On the different data types in my sql.
+
+1136
+02:49:02.700 --> 02:49:06.690
+INSTRUCTOR: OK, so the values that they can take on.
+
+1137
+02:49:10.200 --> 02:49:15.900
+INSTRUCTOR: reasons why use specific data types This is especially true for decimal.
+
+1138
+02:49:17.550 --> 02:49:19.710
+INSTRUCTOR: yeah so.
+
+1139
+02:49:21.900 --> 02:49:26.310
+INSTRUCTOR: In general, if you are talking about money, always use decimal.
+
+1140
+02:49:29.670 --> 02:49:37.950
+INSTRUCTOR: If you're not talking about money, but some real number than knowing can use double something else sort of something yeah doesn't matter.
+
+1141
+02:49:39.420 --> 02:49:56.670
+INSTRUCTOR: So a bunch of things about pizza times all design, important to read and understand you don't have to memorize right, but you should at least understand and be exposed to when you use certain types of stuff now CHA CHA the difference, the differences between China and Russia.
+
+1142
+02:49:59.820 --> 02:50:07.560
+INSTRUCTOR: Other other random stuff, which is important, you know if you intend to do this regularly outside the costs yeah.
+
+1143
+02:50:09.660 --> 02:50:15.090
+INSTRUCTOR: The different two different ways music is operator, so today i've been using this one.
+
+1144
+02:50:17.160 --> 02:50:26.130
+INSTRUCTOR: Is noticing the queue at case when and then a whole bunch of different conditions there's another one called case without the when.
+
+1145
+02:50:27.810 --> 02:50:32.160
+INSTRUCTOR: So, and then this is either a column of expression that comes up with.
+
+1146
+02:50:33.210 --> 02:50:42.810
+INSTRUCTOR: unique value to the column so then when, whatever the value is then you do something when why that is to something else so.
+
+1147
+02:50:44.250 --> 02:50:57.030
+INSTRUCTOR: Essentially, this version works if it's only you're only looking at equivalents the when the value is equal to this, then you do something else, when the veil is equal to something else, maybe somebody else was.
+
+1148
+02:50:58.140 --> 02:51:05.550
+INSTRUCTOR: The case when it's more flexible, because you can see when it's created in something is between a little barn up about you know any thoughts on.
+
+1149
+02:51:08.280 --> 02:51:08.670
+INSTRUCTOR: logic.
+
+1150
+02:51:10.140 --> 02:51:16.470
+INSTRUCTOR: Comparison or logical expression expression that will result in a true or false yeah, then you can use.
+
+1151
+02:51:17.670 --> 02:51:18.180
+INSTRUCTOR: So.
+
+1152
+02:51:21.030 --> 02:51:21.750
+INSTRUCTOR: rollback.
+
+1153
+02:51:22.950 --> 02:51:26.850
+INSTRUCTOR: Okay, so there are a few questions in the tma.
+
+1154
+02:51:29.430 --> 02:51:32.940
+INSTRUCTOR: One is trying to figure out what alter alter table does.
+
+1155
+02:51:33.990 --> 02:51:45.150
+INSTRUCTOR: And how to use it Okay, so if you Google for this, it should be very simple so that to me, is for me to get you all comfortable with passing true.
+
+1156
+02:51:46.410 --> 02:52:01.350
+INSTRUCTOR: information is available on the Internet, when it comes to coding and making sense of it and then being able to use what you've you, you can clean off the Internet Okay, so the one is very simple alter table is a very simple command yeah.
+
+1157
+02:52:04.380 --> 02:52:21.750
+INSTRUCTOR: So you look at the table that you're given and then that the data type all the columns and you consider the values that these columns take on and you ask yourself a question about whether or not these are optimal data types.
+
+1158
+02:52:23.010 --> 02:52:26.730
+INSTRUCTOR: So, or can you get away with something.
+
+1159
+02:52:27.990 --> 02:52:29.460
+INSTRUCTOR: better or more appropriate.
+
+1160
+02:52:30.840 --> 02:52:33.150
+INSTRUCTOR: Optimal and, in the sense of.
+
+1161
+02:52:34.320 --> 02:52:35.610
+INSTRUCTOR: The space required.
+
+1162
+02:52:36.630 --> 02:52:39.690
+INSTRUCTOR: So these are fairly small data sets.
+
+1163
+02:52:41.310 --> 02:52:55.110
+INSTRUCTOR: Like data on you know if you do this more and more you'll be explosive huge data sets right that will you try to do things in a less efficient manner, take up a lot of space.
+
+1164
+02:52:56.130 --> 02:52:59.220
+INSTRUCTOR: lot memory all the operations slow down.
+
+1165
+02:53:00.630 --> 02:53:13.200
+INSTRUCTOR: So the data that we're using in this course small enough that you can get away without having to create indices on their tables but later on, you know she also read up about in this season and how the speed of operations yeah.
+
+1166
+02:53:14.310 --> 02:53:16.230
+INSTRUCTOR: So, but so.
+
+1167
+02:53:17.610 --> 02:53:25.710
+INSTRUCTOR: All these things right now, you look at know is double ready, the correct thing for for this when the values range from zero to 100.
+
+1168
+02:53:26.460 --> 02:53:39.810
+INSTRUCTOR: Right now, you look at this and you see law is there something better, and then, if there is then you use on the table to to change the table so that your original table will be updated with.
+
+1169
+02:53:41.820 --> 02:53:58.770
+INSTRUCTOR: will be optimized in terms of the data types that you use today, so you look at each of them and then you you check true not just here but on the Internet, you know the URL they can go to yeah with a whole bunch of other things.
+
+1170
+02:53:59.940 --> 02:54:02.910
+INSTRUCTOR: Right, you can check out Sola yeah.
+
+1171
+02:54:04.500 --> 02:54:04.950
+INSTRUCTOR: OK.
+
+1172
+02:54:08.010 --> 02:54:09.090
+INSTRUCTOR: So the second one.
+
+1173
+02:54:10.860 --> 02:54:11.460
+INSTRUCTOR: process.
+
+1174
+02:54:12.630 --> 02:54:18.870
+STUDENT 07: So for each of those changes to be need to explain why she she felt napa why we change to the teacher.
+
+1175
+02:54:19.470 --> 02:54:25.110
+INSTRUCTOR: So, so it is the same reason, then you lump them together so they are these.
+
+1176
+02:54:26.160 --> 02:54:34.710
+INSTRUCTOR: Are these are Jewish groups that you attract so if you're going to change that to something else, they can still express through the absolute values, then you tell me that.
+
+1177
+02:54:36.000 --> 02:54:54.450
+INSTRUCTOR: So in for your team here and with the Alpha you see what's important is the code right, so I will be creating your code, I will not be creating your result, people so whatever changes, you make to record them notice the.
+
+1178
+02:54:55.740 --> 02:54:58.890
+INSTRUCTOR: Next sql statements, a user okay so.
+
+1179
+02:55:00.000 --> 02:55:05.280
+INSTRUCTOR: don't don't use and truly and then you know just sent me there is off the boat that's not that's not what this is about that.
+
+1180
+02:55:06.330 --> 02:55:06.600
+INSTRUCTOR: OK.
+
+1181
+02:55:06.690 --> 02:55:07.020
+OK.
+
+1182
+02:55:08.850 --> 02:55:09.630
+OK so.
+
+1183
+02:55:12.120 --> 02:55:19.020
+INSTRUCTOR: The plan B is I want y'all to learn how to construct a table that you've seen the show.
+
+1184
+02:55:20.310 --> 02:55:31.680
+INSTRUCTOR: So sometimes you know let's say you are doing this as part of your day job, one of the things reporting and then all these years people i've been using excel.
+
+1185
+02:55:32.730 --> 02:55:46.800
+INSTRUCTOR: To manually come up with the tables I need to reprocess me tables, so what I want you to learn this you don't you look at a table and you say Okay, I see all the data I have all these excel sheets, I can.
+
+1186
+02:55:47.820 --> 02:55:52.440
+INSTRUCTOR: Do is young people, and then I can write a sql script.
+
+1187
+02:55:53.640 --> 02:56:10.020
+INSTRUCTOR: That will show me the exact same people are similar enough that like in real life, see it soon enough with the same information, then next time every reporting period the the excel excel data changes I just you know import it to my sql table and I run the same scripts.
+
+1188
+02:56:11.280 --> 02:56:21.270
+INSTRUCTOR: Right, then that saves a lot of time, so you do the winds up front create the script make sure it works and then anytime new data comes in, you just chuck it in, and then we bought.
+
+1189
+02:56:21.900 --> 02:56:45.900
+INSTRUCTOR: Right so i've i've been doing this for years, so one of my roles as CSS is to report metrics to me so every semester someone in the university structure will send me new new data sets I just read it into you know I put it into my database and I run the same scripts.
+
+1190
+02:56:46.980 --> 02:56:57.600
+INSTRUCTOR: And then I just copy and paste into into PowerPoint or something I just sent to me right so rather than you know I do it in excel then there's always a chance of manual error and incident.
+
+1191
+02:56:59.160 --> 02:57:01.560
+INSTRUCTOR: So for this question.
+
+1192
+02:57:02.580 --> 02:57:08.730
+INSTRUCTOR: I want you to give me a result, stable and looks exactly like this.
+
+1193
+02:57:11.520 --> 02:57:15.300
+INSTRUCTOR: So you see the percentage symbol here.
+
+1194
+02:57:18.000 --> 02:57:29.190
+INSTRUCTOR: This is not 22% by two and 3.0% so all these things are important, the order that you see in you know everything needs to be identical okay.
+
+1195
+02:57:30.090 --> 02:57:45.600
+INSTRUCTOR: So and it's you can do it yeah I think it's very easy for us, so you think about it in two steps first step, you create this the queries to generate the data.
+
+1196
+02:57:47.490 --> 02:58:02.610
+INSTRUCTOR: Make sure that you've got the data correct then after that you look at my possible built in functions, there might be that will allow you to express the data in a very specific format.
+
+1197
+02:58:04.590 --> 02:58:05.010
+yeah.
+
+1198
+02:58:15.000 --> 02:58:15.690
+INSTRUCTOR: I saw it.
+
+1199
+02:58:17.340 --> 02:58:17.940
+INSTRUCTOR: So.
+
+1200
+02:58:18.840 --> 02:58:23.640
+INSTRUCTOR: So it is, it is not here, I thought site again.
+
+1201
+02:58:25.380 --> 02:58:29.430
+INSTRUCTOR: It is not here, there is very easy to go for it also yeah.
+
+1202
+02:58:44.340 --> 02:58:48.840
+INSTRUCTOR: Okay, so questions from the floor.
+
+1203
+02:58:50.310 --> 02:58:57.690
+STUDENT 07: across a one more question so for this question be right, so the data type to me is even put it into a single statement.
+
+1204
+02:58:59.760 --> 02:59:02.220
+INSTRUCTOR: For the sorry the directory.
+
+1205
+02:59:02.730 --> 02:59:08.880
+STUDENT 07: So be assuming if we need to change the data type so should we change, it should be included.
+
+1206
+02:59:11.340 --> 02:59:12.330
+STUDENT 07: In these are.
+
+1207
+02:59:12.810 --> 02:59:13.350
+STUDENT 07: These fun.
+
+1208
+02:59:13.890 --> 02:59:22.530
+INSTRUCTOR: Okay, so is different, so in a used to alter table statement to change the data type of.
+
+1209
+02:59:23.610 --> 02:59:37.020
+INSTRUCTOR: Your table right so with the updated table you then use the updated table in be using a select statement in a single select statement to create this table.
+
+1210
+02:59:41.880 --> 02:59:48.000
+STUDENT 07: So we should be A and B somehow linked together, because the data smash the question be.
+
+1211
+02:59:49.380 --> 02:59:50.700
+INSTRUCTOR: So yeah.
+
+1212
+02:59:52.740 --> 03:00:02.010
+INSTRUCTOR: So you do efforts and by doing a you have altered table you have changed it to and then all the data types, not all that somebody did that to me i've changed.
+
+1213
+03:00:03.360 --> 03:00:03.690
+INSTRUCTOR: Okay.
+
+1214
+03:00:05.460 --> 03:00:08.280
+INSTRUCTOR: And then, after that you then won't be.
+
+1215
+03:00:10.590 --> 03:00:14.880
+STUDENT 07: able to show the data again push me every change.
+
+1216
+03:00:15.270 --> 03:00:15.630
+yeah.
+
+1217
+03:00:16.920 --> 03:00:17.430
+STUDENT 07: Thank you.
+
+1218
+03:00:19.260 --> 03:00:20.310
+INSTRUCTOR: So yeah so.
+
+1219
+03:00:21.510 --> 03:00:28.590
+INSTRUCTOR: To create the table once again right, he must be exact, so the naming of the columns awesome exact.
+
+1220
+03:00:29.940 --> 03:00:39.030
+INSTRUCTOR: sequence of you know which column comes to fall, which and other all must be exactly okay so just pay attention to all this in your code.
+
+1221
+03:00:40.500 --> 03:00:43.530
+INSTRUCTOR: Please document your put comments in a code.
+
+1222
+03:00:48.630 --> 03:00:56.160
+INSTRUCTOR: copy and paste your Code into a Microsoft word document do not embedded.
+
+1223
+03:00:57.180 --> 03:01:04.290
+INSTRUCTOR: file right as a as an embedded object in Microsoft word I know that's possible so that you drag and drop some other file.
+
+1224
+03:01:06.120 --> 03:01:15.300
+INSTRUCTOR: So just to let you know, for those of us who are using the MAC address when you drag and drop those embedded things we cannot see.
+
+1225
+03:01:17.700 --> 03:01:28.740
+INSTRUCTOR: Okay, so you shouldn't screenshot you should copy and paste a quick, because what I will do is I will copy and paste your cookie do my query browser and see whether it's all stable.
+
+1226
+03:01:30.390 --> 03:01:31.950
+INSTRUCTOR: Okay, so here's a screenshot I can do that.
+
+1227
+03:01:33.720 --> 03:01:34.500
+INSTRUCTOR: So.
+
+1228
+03:01:35.760 --> 03:01:36.870
+INSTRUCTOR: In Microsoft way.
+
+1229
+03:01:43.770 --> 03:01:44.790
+INSTRUCTOR: In Microsoft way.
+
+1230
+03:01:46.680 --> 03:01:48.330
+INSTRUCTOR: When you.
+
+1231
+03:01:53.550 --> 03:01:55.110
+INSTRUCTOR: I think the auto correct.
+
+1232
+03:02:00.060 --> 03:02:00.540
+INSTRUCTOR: Correct.
+
+1233
+03:02:03.120 --> 03:02:05.310
+INSTRUCTOR: Yes, okay this thing.
+
+1234
+03:02:06.600 --> 03:02:19.530
+INSTRUCTOR: Straight quotes with smack quotes so when you're copying and pasting Code into Microsoft word document this with to be unchecked.
+
+1235
+03:02:21.030 --> 03:02:28.350
+INSTRUCTOR: You don't want them to change your State courts into slack quotes because if you do that, and then I just.
+
+1236
+03:02:29.520 --> 03:02:33.450
+INSTRUCTOR: select the entire query and I paste it into my chrome browser is not good right.
+
+1237
+03:02:34.470 --> 03:02:41.220
+INSTRUCTOR: So the programming languages sql Python are all that do not understand spot quotes.
+
+1238
+03:02:42.480 --> 03:02:46.380
+INSTRUCTOR: The only understand strict quips okay so make sure that.
+
+1239
+03:02:47.430 --> 03:02:49.500
+INSTRUCTOR: You go into Microsoft word.
+
+1240
+03:02:51.210 --> 03:03:00.810
+INSTRUCTOR: data and auto correct and auto format you type the straight quotes with smack quotes that box is checked okay.
+
+1241
+03:03:02.850 --> 03:03:08.700
+INSTRUCTOR: The hyphens with dashes I think better because you know the two minus science.
+
+1242
+03:03:09.870 --> 03:03:12.690
+INSTRUCTOR: And white space character starts.
+
+1243
+03:03:14.100 --> 03:03:29.520
+INSTRUCTOR: A comment line right in sql so you do, I never change it to some other symbol OK so maybe these two are bought into to not have 10 switched on in Microsoft word so then.
+
+1244
+03:03:33.330 --> 03:03:34.860
+INSTRUCTOR: Why couldn't you.
+
+1245
+03:03:35.970 --> 03:03:36.990
+INSTRUCTOR: Type in.
+
+1246
+03:03:40.410 --> 03:03:40.950
+Okay.
+
+1247
+03:03:42.060 --> 03:03:43.770
+INSTRUCTOR: You can just paste yeah.
+
+1248
+03:03:45.540 --> 03:03:53.490
+INSTRUCTOR: So let me increase the size of this so you know I will So if I see.
+
+1249
+03:03:59.640 --> 03:04:00.840
+INSTRUCTOR: This is a strict quote.
+
+1250
+03:04:06.000 --> 03:04:07.470
+INSTRUCTOR: So.
+
+1251
+03:04:10.110 --> 03:04:11.490
+INSTRUCTOR: Okay, so this is a great quote.
+
+1252
+03:04:17.970 --> 03:04:19.530
+INSTRUCTOR: turn on auto correct.
+
+1253
+03:04:21.090 --> 03:04:22.500
+INSTRUCTOR: it's true quotes spot.
+
+1254
+03:04:23.790 --> 03:04:25.200
+INSTRUCTOR: Okay, if I type.
+
+1255
+03:04:26.670 --> 03:04:29.190
+INSTRUCTOR: street quote you see a change.
+
+1256
+03:04:35.820 --> 03:04:42.240
+INSTRUCTOR: guys you mean you know what the Defense is for people who are coding, you know so.
+
+1257
+03:04:50.100 --> 03:04:53.100
+INSTRUCTOR: So this thing is different from this thing.
+
+1258
+03:04:54.390 --> 03:04:57.270
+INSTRUCTOR: Right, so this thing is different from getting.
+
+1259
+03:05:00.570 --> 03:05:03.270
+INSTRUCTOR: up this context.
+
+1260
+03:05:04.500 --> 03:05:19.500
+INSTRUCTOR: If you have this right and you paste it, you will not change, but if you happen to go over the line and make a you know, an adjustment here and there, Microsoft what may change for the light so it's obviously to turn it off.
+
+1261
+03:05:20.670 --> 03:05:27.570
+INSTRUCTOR: And you're running this for this cause la you turn it off it's not again today, and if you want yeah so.
+
+1262
+03:05:32.610 --> 03:05:37.200
+INSTRUCTOR: See single quote right so just a straight line it becomes.
+
+1263
+03:05:38.220 --> 03:05:38.880
+INSTRUCTOR: So symphony.
+
+1264
+03:05:40.620 --> 03:05:44.400
+INSTRUCTOR: Okay, so this is Microsoft word trying to be helpful because they think that.
+
+1265
+03:05:45.480 --> 03:05:56.550
+INSTRUCTOR: This looks better and this thing here this looks better than this okay by all the programming languages to not understand this.
+
+1266
+03:05:57.750 --> 03:06:00.300
+INSTRUCTOR: Again, this is not this.
+
+1267
+03:06:01.680 --> 03:06:02.130
+INSTRUCTOR: Okay.
+
+1268
+03:06:05.430 --> 03:06:08.520
+INSTRUCTOR: So just remember to just paste it in yeah.
+
+1269
+03:06:13.920 --> 03:06:16.860
+INSTRUCTOR: Any other questions, then until all the questions.
+
+1270
+03:06:19.800 --> 03:06:27.210
+INSTRUCTOR: Yes, rachel's question about a year to keep the same number of few columns and focus and assessing the optimal data types, for us, yes.
+
+1271
+03:06:28.800 --> 03:06:40.710
+INSTRUCTOR: That that's absolutely correct, so the only thing only thing you use other table for in part is to change the data types for the columns that you think needs to be changed, and then you tell me why Allah so you don't have to you know.
+
+1272
+03:06:41.190 --> 03:06:56.190
+INSTRUCTOR: Like I said earlier, you don't have to explain oh same reason, over and over again, you can see, you know for these columns because the values range from what what your India integers web, so we can use this data type thing you know you show me off the table statement for that.
+
+1273
+03:07:05.400 --> 03:07:13.140
+INSTRUCTOR: don't need to display I see I just saw checks checks and your question whether or not you need to display the table after you you you run the altar table you don't need to.
+
+1274
+03:07:13.890 --> 03:07:21.180
+INSTRUCTOR: write, I will look at your alter table table statements your justification for the changes and then determine whether or not you did it correctly.
+
+1275
+03:07:23.700 --> 03:07:24.210
+INSTRUCTOR: So.
+
+1276
+03:07:26.670 --> 03:07:28.950
+INSTRUCTOR: This is here.
+
+1277
+03:07:30.060 --> 03:07:31.860
+INSTRUCTOR: y'all should get four months ago about it.
+
+1278
+03:07:33.600 --> 03:07:41.460
+INSTRUCTOR: So there's no reason why you shouldn't get for lots of it, so you just read the documentation you look at the values that the whole and then you.
+
+1279
+03:07:42.240 --> 03:07:59.610
+INSTRUCTOR: You construct the correct statements you know and specify the justification Okay, so these were differentiate everyone, depending on how how you could how you structure the comments that you include right.
+
+1280
+03:08:05.940 --> 03:08:13.230
+INSTRUCTOR: So James asked whether or not the y'all could right now, if what you've been exposed to, I would say that.
+
+1281
+03:08:14.670 --> 03:08:16.380
+INSTRUCTOR: We can wait, the values.
+
+1282
+03:08:17.580 --> 03:08:24.060
+INSTRUCTOR: In the required table as well as the column names which is trivial, yes, you have.
+
+1283
+03:08:25.080 --> 03:08:40.080
+INSTRUCTOR: To specify the format, you need to understand how to specify the format and i've not explicitly taught you that so, but they are built in function, so that, so you just need to search the online documentation for it to see what is appropriate.
+
+1284
+03:08:41.760 --> 03:08:44.790
+INSTRUCTOR: Right, how do you specify something like this.
+
+1285
+03:08:45.840 --> 03:08:46.020
+You.
+
+1286
+03:08:50.610 --> 03:08:56.130
+STUDENT 07: Can just ask one more question for question be right when they say construct them for him.
+
+1287
+03:08:56.310 --> 03:08:59.790
+STUDENT 07: A summary table with a single my sql select statement.
+
+1288
+03:09:00.120 --> 03:09:01.710
+STUDENT 07: This is.
+
+1289
+03:09:02.850 --> 03:09:04.200
+INSTRUCTOR: Any other questions.
+
+1290
+03:09:19.980 --> 03:09:23.280
+STUDENT 13: Ask if it's a required to put in the comments.
+
+1291
+03:09:24.360 --> 03:09:25.710
+STUDENT 13: As part of the code.
+
+1292
+03:09:31.080 --> 03:09:31.620
+INSTRUCTOR: me.
+
+1293
+03:09:33.180 --> 03:09:33.660
+STUDENT 13: Hello.
+
+1294
+03:09:35.670 --> 03:09:37.200
+INSTRUCTOR: Okay huh.
+
+1295
+03:09:38.250 --> 03:09:38.550
+INSTRUCTOR: Okay.
+
+1296
+03:09:39.810 --> 03:09:41.640
+INSTRUCTOR: Other questions, then I think we'll call it one.
+
+1297
+03:09:42.540 --> 03:09:43.710
+STUDENT 13: More question sorry.
+
+1298
+03:09:45.270 --> 03:09:46.440
+STUDENT 13: Is it required.
+
+1299
+03:09:46.920 --> 03:09:48.540
+INSTRUCTOR: me to share new telegram.
+
+1300
+03:09:49.890 --> 03:09:50.940
+INSTRUCTOR: invitation link again.
+
+1301
+03:09:54.210 --> 03:09:54.870
+INSTRUCTOR: yeah.
+
+1302
+03:09:57.780 --> 03:09:58.980
+INSTRUCTOR: I can hear you all actually.
+
+1303
+03:10:00.030 --> 03:10:01.170
+INSTRUCTOR: i'll come I can hear yo.
+
+1304
+03:10:41.610 --> 03:10:42.930
+INSTRUCTOR: Okay, can you hear me.
+
+1305
+03:10:44.520 --> 03:10:44.910
+STUDENT 13: Yes.
+
+1306
+03:10:45.810 --> 03:10:46.350
+INSTRUCTOR: I can hear you.
+
+1307
+03:10:49.170 --> 03:10:57.210
+STUDENT 13: One question regarding the comments are expected to insert comments as part of the code, yes, yes.
+
+1308
+03:10:59.880 --> 03:11:00.690
+INSTRUCTOR: Please do.
+
+1309
+03:11:04.890 --> 03:11:09.480
+STUDENT 13: So, so what were we supposed to write as comment.
+
+1310
+03:11:12.480 --> 03:11:13.650
+INSTRUCTOR: something sensible.
+
+1311
+03:11:16.440 --> 03:11:16.830
+INSTRUCTOR: So.
+
+1312
+03:11:18.660 --> 03:11:27.510
+INSTRUCTOR: explain what you're doing that so okay so, so this is not like a like a coding, and what were you are writing comments to remind yourself.
+
+1313
+03:11:28.110 --> 03:11:39.480
+INSTRUCTOR: about the things that you're doing or the decisions that you make right, this is yeah, this is an assignment where you need to convince the reader that you know what you're doing.
+
+1314
+03:11:41.430 --> 03:11:54.150
+INSTRUCTOR: So yeah So if you are unsure just write more comments yeah so so it's not, I am sure that you know i'm convinced that you know what you're doing then everything's fine.
+
+1315
+03:11:56.220 --> 03:11:56.640
+STUDENT 13: Okay.
+
+1316
+03:11:58.920 --> 03:11:59.130
+yeah.
+
+1317
+03:12:00.810 --> 03:12:04.170
+STUDENT 07: that's for a human being, I became the useless in this DEMO.
+
+1318
+03:12:04.560 --> 03:12:05.730
+INSTRUCTOR: yeah Wednesday Wednesday.
+
+1319
+03:12:06.090 --> 03:12:07.740
+STUDENT 07: So they select only use one.
+
+1320
+03:12:08.250 --> 03:12:08.850
+INSTRUCTOR: Yes.
+
+1321
+03:12:09.360 --> 03:12:17.880
+INSTRUCTOR: Well yeah yeah one in one statement that whether or not you under nest the selects you know it's up to you, but you should all just be in one statement.
+
+1322
+03:12:23.910 --> 03:12:24.450
+INSTRUCTOR: Yes, you can.
+
+1323
+03:12:25.500 --> 03:12:26.820
+INSTRUCTOR: select right after this.
+
+1324
+03:12:33.810 --> 03:12:34.440
+INSTRUCTOR: Okay.
+
+1325
+03:12:37.500 --> 03:12:40.770
+INSTRUCTOR: Did I miss any other questions, while my headset.
+
+1326
+03:12:43.020 --> 03:12:43.950
+When we.
+
+1327
+03:13:02.460 --> 03:13:03.960
+INSTRUCTOR: Okay, so yeah.
+
+1328
+03:13:05.160 --> 03:13:06.540
+INSTRUCTOR: If not, thank you.
+
+1329
+03:13:09.630 --> 03:13:26.580
+INSTRUCTOR: I will post telegram invite link again and I will upload the snapshot today yeah okay so anything piece right discussion forum, or you know telegram or something, thank you very much, thank you for Okay, thank you.
+
+1330
+03:13:34.680 --> 03:13:35.610
+hey bye bye.
+

@@ -20,3 +20,25 @@ This repository contains my submission for the End-of-Course Assignment (ECA) fo
 - **`503eca_1a.py`**: Python script for extracting dialogue components from the `.vtt` file and storing the data in a MySQL table.
 - **`503eca_1b.sql`**: SQL script that creates a new table with dialogue duration in milliseconds and performs data transformations.
 - **`503eca_1c.R`**: R script that reads data from MySQL, filters it, and generates a barchart showing student participation airtime.
+
+# Python Script Explanation
+
+Import necessary library:
+
+```python
+import os   # to set working directory
+import re   # for regex
+import pandas as pd
+import pymysql
+from sqlalchemy import create_engine
+from sqlalchemy.engine.url import URL
+```
+Defining Regex:
+
+```python
+# Define regex for parsing
+INIT_regex = re.compile(r'^WEBVTT\s*$')
+SNo_regex = re.compile(r'^(\d+)\s*$')
+Time_regex = re.compile(r'^(\d{2}:\d{2}:\d{2}\.\d{3}) --> (\d{2}:\d{2}:\d{2}\.\d{3})\s*$')
+NameUtt_regex = re.compile(r'^([^:]+):\s?(.*)$')
+```
